@@ -1,0 +1,50 @@
+# Configuration for Weather and Fashion Sales Analysis
+# This file contains parameters that can be customized for the analysis
+
+# Data collection parameters
+data_collection:
+  start_year: 2013
+  end_year: 2022
+  
+  # Metropolitan areas to analyze
+  cities:
+    - "New York"
+    - "Los Angeles"
+    - "Chicago"
+    - "Houston"
+    - "Phoenix"
+    - "Philadelphia"
+    - "San Antonio"
+    - "San Diego"
+  
+  # NOAA data types
+  noaa_datatypes:
+    - "TMAX"  # Maximum temperature
+    - "TMIN"  # Minimum temperature
+    - "PRCP"  # Precipitation
+    - "SNOW"  # Snowfall
+    - "AWND"  # Average wind speed
+
+# Data quality thresholds
+quality:
+  missing_threshold: 0.5  # Maximum proportion of missing values per row
+  outlier_percentiles:
+    lower: 0.01
+    upper: 0.99
+
+# Analysis parameters
+analysis:
+  extreme_weather:
+    temperature_anomaly_threshold: 2.0  # degrees Celsius
+    precipitation_percentile: 0.95
+  
+  seasons:
+    Winter: [12, 1, 2]
+    Spring: [3, 4, 5]
+    Summer: [6, 7, 8]
+    Fall: [9, 10, 11]
+
+# Output settings
+output:
+  figure_dpi: 300
+  figure_format: "png"

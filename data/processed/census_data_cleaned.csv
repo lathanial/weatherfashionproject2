@@ -1,0 +1,321 @@
+year,city,retail_type,retail_sales
+2013,New York,Clothing,189963
+2013,New York,Electronics,236057
+2013,New York,Furniture,218560
+2013,New York,Food & Beverage,207893
+2013,Los Angeles,Clothing,155233
+2013,Los Angeles,Electronics,155232
+2013,Los Angeles,Furniture,148182
+2013,Los Angeles,Food & Beverage,206365
+2013,Chicago,Clothing,156067
+2013,Chicago,Electronics,162484
+2013,Chicago,Furniture,121235
+2013,Chicago,Food & Beverage,178195
+2013,Houston,Clothing,158617
+2013,Houston,Electronics,123891
+2013,Houston,Furniture,122182
+2013,Houston,Food & Beverage,122271
+2013,Phoenix,Clothing,110604
+2013,Phoenix,Electronics,121188
+2013,Phoenix,Furniture,116733
+2013,Phoenix,Food & Beverage,109979
+2013,Philadelphia,Clothing,114922
+2013,Philadelphia,Electronics,94138
+2013,Philadelphia,Furniture,100854
+2013,Philadelphia,Food & Beverage,104120
+2013,San Antonio,Clothing,98243
+2013,San Antonio,Electronics,111407
+2013,San Antonio,Furniture,87987
+2013,San Antonio,Food & Beverage,100569
+2013,San Diego,Clothing,98512
+2013,San Diego,Electronics,77765
+2013,San Diego,Furniture,99087
+2013,San Diego,Food & Beverage,82480
+2014,New York,Clothing,165204
+2014,New York,Electronics,235911
+2014,New York,Furniture,237251
+2014,New York,Food & Beverage,224672
+2014,Los Angeles,Clothing,165932
+2014,Los Angeles,Electronics,151032
+2014,Los Angeles,Furniture,193265
+2014,Los Angeles,Food & Beverage,175691
+2014,Chicago,Clothing,127322
+2014,Chicago,Electronics,149711
+2014,Chicago,Furniture,122063
+2014,Chicago,Food & Beverage,174559
+2014,Houston,Clothing,126492
+2014,Houston,Electronics,149101
+2014,Houston,Furniture,129456
+2014,Houston,Food & Beverage,141124
+2014,Phoenix,Clothing,122242
+2014,Phoenix,Electronics,104873
+2014,Phoenix,Furniture,142540
+2014,Phoenix,Food & Beverage,133206
+2014,Philadelphia,Clothing,129338
+2014,Philadelphia,Electronics,127372
+2014,Philadelphia,Furniture,114308
+2014,Philadelphia,Food & Beverage,128562
+2014,San Antonio,Clothing,83540
+2014,San Antonio,Electronics,87839
+2014,San Antonio,Furniture,81809
+2014,San Antonio,Food & Beverage,93013
+2014,San Diego,Clothing,90770
+2014,San Diego,Electronics,86311
+2014,San Diego,Furniture,107492
+2014,San Diego,Food & Beverage,89557
+2015,New York,Clothing,182475
+2015,New York,Electronics,203416
+2015,New York,Furniture,171274
+2015,New York,Food & Beverage,224176
+2015,Los Angeles,Clothing,149368
+2015,Los Angeles,Electronics,215056
+2015,Los Angeles,Furniture,199602
+2015,Los Angeles,Food & Beverage,158308
+2015,Chicago,Clothing,120331
+2015,Chicago,Electronics,168928
+2015,Chicago,Furniture,162411
+2015,Chicago,Food & Beverage,163740
+2015,Houston,Clothing,155191
+2015,Houston,Electronics,116147
+2015,Houston,Furniture,132074
+2015,Houston,Food & Beverage,118489
+2015,Phoenix,Clothing,137429
+2015,Phoenix,Electronics,125918
+2015,Phoenix,Furniture,111883
+2015,Phoenix,Food & Beverage,99051
+2015,Philadelphia,Clothing,101683
+2015,Philadelphia,Electronics,102308
+2015,Philadelphia,Furniture,120103
+2015,Philadelphia,Food & Beverage,116053
+2015,San Antonio,Clothing,115489
+2015,San Antonio,Electronics,98889
+2015,San Antonio,Furniture,84784
+2015,San Antonio,Food & Beverage,108530
+2015,San Diego,Clothing,104910
+2015,San Diego,Electronics,97329
+2015,San Diego,Furniture,105297
+2015,San Diego,Food & Beverage,94764
+2016,New York,Clothing,201819
+2016,New York,Electronics,194203
+2016,New York,Furniture,162034
+2016,New York,Food & Beverage,168631
+2016,Los Angeles,Clothing,146263
+2016,Los Angeles,Electronics,189822
+2016,Los Angeles,Furniture,166634
+2016,Los Angeles,Food & Beverage,180617
+2016,Chicago,Clothing,174454
+2016,Chicago,Electronics,134958
+2016,Chicago,Furniture,144623
+2016,Chicago,Food & Beverage,165333
+2016,Houston,Clothing,124813
+2016,Houston,Electronics,116311
+2016,Houston,Furniture,128226
+2016,Houston,Food & Beverage,121028
+2016,Phoenix,Clothing,140625
+2016,Phoenix,Electronics,134790
+2016,Phoenix,Furniture,126403
+2016,Phoenix,Food & Beverage,137830
+2016,Philadelphia,Clothing,123362
+2016,Philadelphia,Electronics,96209
+2016,Philadelphia,Furniture,127273
+2016,Philadelphia,Food & Beverage,111731
+2016,San Antonio,Clothing,112298
+2016,San Antonio,Electronics,115844
+2016,San Antonio,Furniture,92720
+2016,San Antonio,Food & Beverage,84402
+2016,San Diego,Clothing,84662
+2016,San Diego,Electronics,92230
+2016,San Diego,Furniture,107085
+2016,San Diego,Food & Beverage,108708
+2017,New York,Clothing,160556
+2017,New York,Electronics,200860
+2017,New York,Furniture,193393
+2017,New York,Food & Beverage,177769
+2017,Los Angeles,Clothing,152630
+2017,Los Angeles,Electronics,168308
+2017,Los Angeles,Furniture,211889
+2017,Los Angeles,Food & Beverage,167271
+2017,Chicago,Clothing,151127
+2017,Chicago,Electronics,162181
+2017,Chicago,Furniture,141818
+2017,Chicago,Food & Beverage,178307
+2017,Houston,Clothing,165897
+2017,Houston,Electronics,126100
+2017,Houston,Furniture,139846
+2017,Houston,Food & Beverage,128849
+2017,Phoenix,Clothing,109672
+2017,Phoenix,Electronics,97771
+2017,Phoenix,Furniture,125259
+2017,Phoenix,Food & Beverage,120129
+2017,Philadelphia,Clothing,90265
+2017,Philadelphia,Electronics,100260
+2017,Philadelphia,Furniture,127964
+2017,Philadelphia,Food & Beverage,98541
+2017,San Antonio,Clothing,85796
+2017,San Antonio,Electronics,99578
+2017,San Antonio,Furniture,119426
+2017,San Antonio,Food & Beverage,89682
+2017,San Diego,Clothing,101541
+2017,San Diego,Electronics,104942
+2017,San Diego,Furniture,85030
+2017,San Diego,Food & Beverage,103672
+2018,New York,Clothing,189423
+2018,New York,Electronics,210584
+2018,New York,Furniture,210682
+2018,New York,Food & Beverage,202862
+2018,Los Angeles,Clothing,150501
+2018,Los Angeles,Electronics,204142
+2018,Los Angeles,Furniture,167096
+2018,Los Angeles,Food & Beverage,157429
+2018,Chicago,Clothing,122447
+2018,Chicago,Electronics,155454
+2018,Chicago,Furniture,160654
+2018,Chicago,Food & Beverage,120995
+2018,Houston,Clothing,140677
+2018,Houston,Electronics,124684
+2018,Houston,Furniture,148130
+2018,Houston,Food & Beverage,121765
+2018,Phoenix,Clothing,129165
+2018,Phoenix,Electronics,114563
+2018,Phoenix,Furniture,140963
+2018,Phoenix,Food & Beverage,102601
+2018,Philadelphia,Clothing,103007
+2018,Philadelphia,Electronics,92993
+2018,Philadelphia,Furniture,128687
+2018,Philadelphia,Food & Beverage,126603
+2018,San Antonio,Clothing,90318
+2018,San Antonio,Electronics,106399
+2018,San Antonio,Furniture,112689
+2018,San Antonio,Food & Beverage,102208
+2018,San Diego,Clothing,96127
+2018,San Diego,Electronics,85190
+2018,San Diego,Furniture,79538
+2018,San Diego,Food & Beverage,110094
+2019,New York,Clothing,232033
+2019,New York,Electronics,210648
+2019,New York,Furniture,187122
+2019,New York,Food & Beverage,187937
+2019,Los Angeles,Clothing,196269
+2019,Los Angeles,Electronics,208592
+2019,Los Angeles,Furniture,207870
+2019,Los Angeles,Food & Beverage,200151
+2019,Chicago,Clothing,158522
+2019,Chicago,Electronics,125048
+2019,Chicago,Furniture,129698
+2019,Chicago,Food & Beverage,173913
+2019,Houston,Clothing,145960
+2019,Houston,Electronics,112515
+2019,Houston,Furniture,117682
+2019,Houston,Food & Beverage,149156
+2019,Phoenix,Clothing,96243
+2019,Phoenix,Electronics,103719
+2019,Phoenix,Furniture,122339
+2019,Phoenix,Food & Beverage,129211
+2019,Philadelphia,Clothing,116686
+2019,Philadelphia,Electronics,97868
+2019,Philadelphia,Furniture,119336
+2019,Philadelphia,Food & Beverage,98439
+2019,San Antonio,Clothing,93016
+2019,San Antonio,Electronics,109860
+2019,San Antonio,Furniture,105985
+2019,San Antonio,Food & Beverage,113969
+2019,San Diego,Clothing,100989
+2019,San Diego,Electronics,97596
+2019,San Diego,Furniture,79560
+2019,San Diego,Food & Beverage,89973
+2020,New York,Clothing,181216
+2020,New York,Electronics,179519
+2020,New York,Furniture,237841
+2020,New York,Food & Beverage,191448
+2020,Los Angeles,Clothing,208227
+2020,Los Angeles,Electronics,189442
+2020,Los Angeles,Furniture,201226
+2020,Los Angeles,Food & Beverage,180190
+2020,Chicago,Clothing,154614
+2020,Chicago,Electronics,149551
+2020,Chicago,Furniture,131715
+2020,Chicago,Food & Beverage,163347
+2020,Houston,Clothing,127723
+2020,Houston,Electronics,113362
+2020,Houston,Furniture,148146
+2020,Houston,Food & Beverage,121918
+2020,Phoenix,Clothing,141142
+2020,Phoenix,Electronics,141789
+2020,Phoenix,Furniture,139913
+2020,Phoenix,Food & Beverage,113768
+2020,Philadelphia,Clothing,88680
+2020,Philadelphia,Electronics,128846
+2020,Philadelphia,Furniture,106840
+2020,Philadelphia,Food & Beverage,130533
+2020,San Antonio,Clothing,118545
+2020,San Antonio,Electronics,114120
+2020,San Antonio,Furniture,91778
+2020,San Antonio,Food & Beverage,95404
+2020,San Diego,Clothing,108343
+2020,San Diego,Electronics,88043
+2020,San Diego,Furniture,82441
+2020,San Diego,Food & Beverage,97158
+2021,New York,Clothing,234892
+2021,New York,Electronics,215682
+2021,New York,Furniture,205605
+2021,New York,Food & Beverage,167774
+2021,Los Angeles,Clothing,188281
+2021,Los Angeles,Electronics,215284
+2021,Los Angeles,Furniture,154086
+2021,Los Angeles,Food & Beverage,181320
+2021,Chicago,Clothing,172642
+2021,Chicago,Electronics,164446
+2021,Chicago,Furniture,161821
+2021,Chicago,Food & Beverage,162149
+2021,Houston,Clothing,132132
+2021,Houston,Electronics,128441
+2021,Houston,Furniture,157324
+2021,Houston,Food & Beverage,157366
+2021,Phoenix,Clothing,137619
+2021,Phoenix,Electronics,139836
+2021,Phoenix,Furniture,120544
+2021,Phoenix,Food & Beverage,120073
+2021,Philadelphia,Clothing,123125
+2021,Philadelphia,Electronics,116598
+2021,Philadelphia,Furniture,118887
+2021,Philadelphia,Food & Beverage,123015
+2021,San Antonio,Clothing,115600
+2021,San Antonio,Electronics,93520
+2021,San Antonio,Furniture,95023
+2021,San Antonio,Food & Beverage,83759
+2021,San Diego,Clothing,97975
+2021,San Diego,Electronics,77366
+2021,San Diego,Furniture,93693
+2021,San Diego,Food & Beverage,96620
+2022,New York,Clothing,182923
+2022,New York,Electronics,207267
+2022,New York,Furniture,162440
+2022,New York,Food & Beverage,162988
+2022,Los Angeles,Clothing,203227
+2022,Los Angeles,Electronics,169934
+2022,Los Angeles,Furniture,153148
+2022,Los Angeles,Food & Beverage,181602
+2022,Chicago,Clothing,166200
+2022,Chicago,Electronics,132949
+2022,Chicago,Furniture,157373
+2022,Chicago,Food & Beverage,125121
+2022,Houston,Clothing,114894
+2022,Houston,Electronics,141756
+2022,Houston,Furniture,142276
+2022,Houston,Food & Beverage,147696
+2022,Phoenix,Clothing,130852
+2022,Phoenix,Electronics,142841
+2022,Phoenix,Furniture,120782
+2022,Phoenix,Food & Beverage,111502
+2022,Philadelphia,Clothing,122988
+2022,Philadelphia,Electronics,99917
+2022,Philadelphia,Furniture,107315
+2022,Philadelphia,Food & Beverage,91452
+2022,San Antonio,Clothing,81014
+2022,San Antonio,Electronics,118506
+2022,San Antonio,Furniture,113439
+2022,San Antonio,Food & Beverage,107839
+2022,San Diego,Clothing,91540
+2022,San Diego,Electronics,82585
+2022,San Diego,Furniture,81945
+2022,San Diego,Food & Beverage,85509

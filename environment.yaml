@@ -1,0 +1,16 @@
+name: weatherfashion
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas=2.1.4
+  - numpy=1.26.2
+  - matplotlib=3.8.2
+  - seaborn=0.13.0
+  - scipy=1.11.4
+  - requests=2.31.0
+  - snakemake=8.0.1
+  - pip
+  - pip:
+    - great-expectations==0.18.0

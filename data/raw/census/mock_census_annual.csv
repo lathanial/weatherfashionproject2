@@ -1,0 +1,81 @@
+city,year,retail_sales
+Chicago,2013,696831
+Chicago,2014,715482
+Chicago,2015,742450
+Chicago,2016,749571
+Chicago,2017,760433
+Chicago,2018,794764
+Chicago,2019,816361
+Chicago,2020,825338
+Chicago,2021,846626
+Chicago,2022,875970
+Houston,2013,527096
+Houston,2014,544844
+Houston,2015,560389
+Houston,2016,572579
+Houston,2017,591324
+Houston,2018,623107
+Houston,2019,624589
+Houston,2020,635994
+Houston,2021,658649
+Houston,2022,667452
+Los Angeles,2013,662830
+Los Angeles,2014,681149
+Los Angeles,2015,705947
+Los Angeles,2016,735295
+Los Angeles,2017,752540
+Los Angeles,2018,775234
+Los Angeles,2019,801852
+Los Angeles,2020,806640
+Los Angeles,2021,836093
+Los Angeles,2022,852794
+New York,2013,673159
+New York,2014,678102
+New York,2015,709758
+New York,2016,724212
+New York,2017,751923
+New York,2018,765229
+New York,2019,788490
+New York,2020,816850
+New York,2021,820559
+New York,2022,857397
+Philadelphia,2013,639447
+Philadelphia,2014,667379
+Philadelphia,2015,678226
+Philadelphia,2016,698673
+Philadelphia,2017,726001
+Philadelphia,2018,731980
+Philadelphia,2019,774127
+Philadelphia,2020,787677
+Philadelphia,2021,786420
+Philadelphia,2022,828313
+Phoenix,2013,721320
+Phoenix,2014,747940
+Phoenix,2015,772796
+Phoenix,2016,788734
+Phoenix,2017,817590
+Phoenix,2018,835054
+Phoenix,2019,837412
+Phoenix,2020,880771
+Phoenix,2021,877563
+Phoenix,2022,900477
+San Antonio,2013,521206
+San Antonio,2014,536747
+San Antonio,2015,557996
+San Antonio,2016,566690
+San Antonio,2017,581317
+San Antonio,2018,599940
+San Antonio,2019,625570
+San Antonio,2020,631094
+San Antonio,2021,643265
+San Antonio,2022,658740
+San Diego,2013,683795
+San Diego,2014,705714
+San Diego,2015,733361
+San Diego,2016,756290
+San Diego,2017,771675
+San Diego,2018,793961
+San Diego,2019,813051
+San Diego,2020,833926
+San Diego,2021,839156
+San Diego,2022,871746

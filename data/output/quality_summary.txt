@@ -1,0 +1,38 @@
+DATA QUALITY ASSESSMENT SUMMARY
+============================================================
+
+WEATHER DATASET
+------------------------------------------------------------
+Records: 894
+Columns: 16
+
+Completeness: 99.97%
+Missing cells: 5
+
+Columns with missing values:
+  - TMIN_std: 1 (0.11%)
+  - AWND_mean: 4 (0.45%)
+
+Duplicate rows: 0
+
+Columns with outliers: 5
+
+============================================================
+
+RETAIL DATASET
+------------------------------------------------------------
+Records: 1,040
+Columns: 5
+
+Completeness: 98.46%
+Missing cells: 80
+
+Columns with missing values:
+  - month: 80 (7.69%)
+
+Duplicate rows: 0
+
+Columns with outliers: 1
+
+============================================================
+

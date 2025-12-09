@@ -1,0 +1,19 @@
+{
+  "collection_date": "2025-12-07T20:24:27.350896",
+  "date_range": {
+    "start": 2013,
+    "end": 2022
+  },
+  "naics_codes": {
+    "4481": "Clothing Stores",
+    "44811": "Men's Clothing Stores",
+    "44812": "Women's Clothing Stores",
+    "44813": "Children's Clothing Stores",
+    "44814": "Family Clothing Stores",
+    "44815": "Clothing Accessories Stores",
+    "4482": "Shoe Stores",
+    "4483": "Jewelry and Luggage Stores"
+  },
+  "monthly_records": 0,
+  "annual_records": 0
+}

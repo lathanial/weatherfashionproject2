@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+type: dataset
+title: "Weather Patterns and Seasonal Fashion Sales Analysis"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX
+date-released: 2025-12-10
+url: "https://github.com/lynnpepin/weatherfashion"
+repository-code: "https://github.com/lynnpepin/weatherfashion"
+license: MIT
+authors:
+  - family-names: "[Last Name]"
+    given-names: "Lynn"
+    affiliation: "University of Illinois at Urbana-Champaign"
+keywords:
+  - weather patterns
+  - retail sales
+  - fashion industry
+  - climate data
+  - consumer behavior
+  - seasonal trends
+  - data integration
+abstract: >
+  An integrated dataset and analysis exploring correlations between
+  weather anomalies and seasonal clothing sales patterns across eight
+  U.S. metropolitan areas (2013-2022). Combines NOAA climate data with
+  U.S. Census Bureau retail trade statistics to investigate how weather
+  deviations influence consumer purchasing behavior in the fashion
+  retail sector.
+references:
+  - type: dataset
+    title: "Global Historical Climatology Network - Daily (GHCND)"
+    authors:
+      - family-names: "Menne"
+        given-names: "M.J."
+      - family-names: "Durre"
+        given-names: "I."
+      - family-names: "Vose"
+        given-names: "R.S."
+      - family-names: "Gleason"
+        given-names: "B.E."
+      - family-names: "Houston"
+        given-names: "T.G."
+    year: 2012
+    journal: "Journal of Atmospheric and Oceanic Technology"
+    volume: 29
+    pages: "897-910"
+    doi: "10.1175/JTECH-D-11-00103.1"
+  - type: dataset
+    title: "Monthly Retail Trade Survey (MRTS)"
+    publisher:
+      name: "U.S. Census Bureau"
+    url: "https://www.census.gov/retail/index.html"
+  - type: dataset
+    title: "Annual Retail Trade Survey (ARTS)"
+    publisher:
+      name: "U.S. Census Bureau"
+    url: "https://www.census.gov/programs-surveys/arts.html"

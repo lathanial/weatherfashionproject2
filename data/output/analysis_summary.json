@@ -1,0 +1,48 @@
+{
+  "analysis_date": "2025-12-08T14:49:15.386094",
+  "data_summary": {
+    "total_records": 894,
+    "cities": [
+      "Chicago",
+      "Houston",
+      "Los Angeles",
+      "New York",
+      "Philadelphia",
+      "Phoenix",
+      "San Antonio",
+      "San Diego"
+    ],
+    "years": {
+      "min": 2013,
+      "max": 2022
+    }
+  },
+  "temperature_summary": {
+    "overall_avg_max": 22.741152125279637,
+    "overall_avg_min": 13.070167785234899,
+    "warmest_city": "Phoenix",
+    "coldest_city": "Chicago"
+  },
+  "precipitation_summary": {
+    "overall_avg": 62.78681208053692,
+    "wettest_city": "Houston",
+    "driest_city": "Phoenix"
+  },
+  "correlations": {
+    "TMAX_mean": {
+      "TMAX_mean": 1.0,
+      "TMIN_mean": 0.9619653328512524,
+      "PRCP_sum": -0.06156612129131425
+    },
+    "TMIN_mean": {
+      "TMAX_mean": 0.9619653328512524,
+      "TMIN_mean": 1.0,
+      "PRCP_sum": -0.04747847981794919
+    },
+    "PRCP_sum": {
+      "TMAX_mean": -0.06156612129131425,
+      "TMIN_mean": -0.04747847981794919,
+      "PRCP_sum": 1.0
+    }
+  }
+}

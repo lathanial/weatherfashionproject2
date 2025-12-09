@@ -1,0 +1,287 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Weather Patterns and Seasonal Fashion Sales Analysis",
+  "alternateName": "weatherfashion",
+  "description": "An integrated dataset and analysis exploring correlations between weather anomalies and seasonal clothing sales patterns across eight U.S. metropolitan areas (2013-2022). Combines NOAA climate data with U.S. Census Bureau retail trade statistics to investigate how weather deviations influence consumer purchasing behavior in the fashion retail sector.",
+  "url": "https://github.com/lynnpepin/weatherfashion",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "10.5281/zenodo.XXXXXXX"
+  },
+  "version": "1.0.0",
+  "dateCreated": "2025-10-01",
+  "dateModified": "2025-12-07",
+  "datePublished": "2025-12-10",
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Lynn",
+      "familyName": "[Last Name]",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Illinois at Urbana-Champaign"
+      }
+    }
+  ],
+  "contributor": [],
+  "license": [
+    {
+      "@type": "CreativeWork",
+      "name": "MIT License",
+      "url": "https://opensource.org/licenses/MIT",
+      "description": "Software code licensed under MIT License"
+    },
+    {
+      "@type": "CreativeWork", 
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "description": "Documentation licensed under CC BY 4.0"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Public Domain",
+      "description": "Source datasets are U.S. Government Works in the public domain"
+    }
+  ],
+  "keywords": [
+    "weather patterns",
+    "retail sales",
+    "fashion industry",
+    "climate data",
+    "consumer behavior",
+    "seasonal trends",
+    "weather anomalies",
+    "data integration",
+    "time series analysis",
+    "metropolitan areas"
+  ],
+  "spatialCoverage": [
+    {
+      "@type": "Place",
+      "name": "New York-Newark-Jersey City, NY-NJ-PA Metropolitan Statistical Area"
+    },
+    {
+      "@type": "Place",
+      "name": "Los Angeles-Long Beach-Anaheim, CA Metropolitan Statistical Area"
+    },
+    {
+      "@type": "Place",
+      "name": "Chicago-Naperville-Elgin, IL-IN-WI Metropolitan Statistical Area"
+    },
+    {
+      "@type": "Place",
+      "name": "Houston-The Woodlands-Sugar Land, TX Metropolitan Statistical Area"
+    },
+    {
+      "@type": "Place",
+      "name": "Phoenix-Mesa-Scottsdale, AZ Metropolitan Statistical Area"
+    },
+    {
+      "@type": "Place",
+      "name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metropolitan Statistical Area"
+    },
+    {
+      "@type": "Place",
+      "name": "San Antonio-New Braunfels, TX Metropolitan Statistical Area"
+    },
+    {
+      "@type": "Place",
+      "name": "San Diego-Carlsbad, CA Metropolitan Statistical Area"
+    }
+  ],
+  "temporalCoverage": "2013-01-01/2022-12-31",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "Maximum Temperature",
+      "propertyID": "TMAX",
+      "description": "Daily maximum temperature aggregated to monthly statistics",
+      "unitText": "degrees Celsius"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Minimum Temperature",
+      "propertyID": "TMIN",
+      "description": "Daily minimum temperature aggregated to monthly statistics",
+      "unitText": "degrees Celsius"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Precipitation",
+      "propertyID": "PRCP",
+      "description": "Total monthly precipitation",
+      "unitText": "millimeters"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Snowfall",
+      "propertyID": "SNOW",
+      "description": "Total monthly snowfall",
+      "unitText": "millimeters"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Wind Speed",
+      "propertyID": "AWND",
+      "description": "Average monthly wind speed",
+      "unitText": "meters per second"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Temperature Anomaly",
+      "description": "Deviation from 10-year monthly average temperature",
+      "unitText": "degrees Celsius"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Monthly Retail Sales",
+      "propertyID": "MRTSSALES",
+      "description": "National monthly retail sales for clothing and accessories",
+      "unitText": "millions of US dollars"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Annual Receipts",
+      "propertyID": "RCPTOT",
+      "description": "Total annual receipts for clothing stores by state",
+      "unitText": "thousands of US dollars"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/zip",
+      "contentUrl": "[BOX_LINK_HERE]",
+      "description": "Complete project data archive"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "name": "weather_cleaned.csv",
+      "description": "Cleaned monthly weather data for 8 metropolitan areas"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "name": "retail_cleaned.csv",
+      "description": "Cleaned retail sales data"
+    }
+  ],
+  "isBasedOn": [
+    {
+      "@type": "Dataset",
+      "name": "Global Historical Climatology Network - Daily (GHCND)",
+      "provider": {
+        "@type": "Organization",
+        "name": "National Oceanic and Atmospheric Administration (NOAA)"
+      },
+      "url": "https://www.ncdc.noaa.gov/cdo-web/",
+      "citation": "Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overview of the Global Historical Climatology Network-Daily Database. Journal of Atmospheric and Oceanic Technology, 29, 897-910."
+    },
+    {
+      "@type": "Dataset",
+      "name": "Monthly Retail Trade Survey (MRTS)",
+      "provider": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "url": "https://www.census.gov/retail/index.html"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Annual Retail Trade Survey (ARTS)",
+      "provider": {
+        "@type": "Organization",
+        "name": "U.S. Census Bureau"
+      },
+      "url": "https://www.census.gov/programs-surveys/arts.html"
+    }
+  ],
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "GitHub",
+    "url": "https://github.com"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Weather-Retail Correlation"
+    },
+    {
+      "@type": "Thing",
+      "name": "Climate Anomalies"
+    },
+    {
+      "@type": "Thing",
+      "name": "Consumer Behavior"
+    },
+    {
+      "@type": "Thing",
+      "name": "Fashion Retail"
+    }
+  ],
+  "citation": "Lynn. (2025). Weather Patterns and Seasonal Fashion Sales Analysis (Version 1.0.0) [Data set]. https://doi.org/10.5281/zenodo.XXXXXXX",
+  "funding": {
+    "@type": "Grant",
+    "name": "IS477 Course Project",
+    "funder": {
+      "@type": "Organization",
+      "name": "University of Illinois at Urbana-Champaign, School of Information Sciences"
+    }
+  },
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "Python",
+    "version": "3.11",
+    "url": "https://www.python.org/"
+  },
+  "softwareRequirements": [
+    "pandas==2.1.4",
+    "numpy==1.26.2",
+    "matplotlib==3.8.2",
+    "seaborn==0.13.0",
+    "scipy==1.11.4",
+    "requests==2.31.0",
+    "snakemake==8.0.1"
+  ],
+  "maintainer": {
+    "@type": "Person",
+    "givenName": "Lynn",
+    "familyName": "[Last Name]"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  },
+  "inLanguage": "en-US",
+  "recordedAt": {
+    "@type": "Event",
+    "name": "IS477 Fall 2025 Course Project",
+    "startDate": "2025-09-01",
+    "endDate": "2025-12-10",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "https://github.com"
+    }
+  },
+  "sameAs": [
+    "https://github.com/lynnpepin/weatherfashion",
+    "https://zenodo.org/record/XXXXXXX"
+  ],
+  "workExample": [
+    {
+      "@type": "CreativeWork",
+      "name": "Temperature Analysis Visualization",
+      "encodingFormat": "image/png",
+      "url": "data/output/temperature_analysis.png"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Correlation Matrix",
+      "encodingFormat": "image/png",
+      "url": "data/output/correlation_matrix.png"
+    }
+  ]
+}

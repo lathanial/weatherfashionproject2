@@ -1,0 +1,1041 @@
+city,year,month,retail_sales,frequency
+New York,2013,1.0,58309,monthly
+New York,2013,2.0,57089,monthly
+New York,2013,3.0,56345,monthly
+New York,2013,4.0,53875,monthly
+New York,2013,5.0,53875,monthly
+New York,2013,6.0,53329,monthly
+New York,2013,7.0,57838,monthly
+New York,2013,8.0,56359,monthly
+New York,2013,9.0,56955,monthly
+New York,2013,10.0,53120,monthly
+New York,2013,11.0,58416,monthly
+New York,2013,12.0,57649,monthly
+New York,2014,1.0,55815,monthly
+New York,2014,2.0,55640,monthly
+New York,2014,3.0,55649,monthly
+New York,2014,4.0,56343,monthly
+New York,2014,5.0,57611,monthly
+New York,2014,6.0,57077,monthly
+New York,2014,7.0,56269,monthly
+New York,2014,8.0,58111,monthly
+New York,2014,9.0,55397,monthly
+New York,2014,10.0,56274,monthly
+New York,2014,11.0,56700,monthly
+New York,2014,12.0,57216,monthly
+New York,2015,1.0,60829,monthly
+New York,2015,2.0,57366,monthly
+New York,2015,3.0,59226,monthly
+New York,2015,4.0,59689,monthly
+New York,2015,5.0,56460,monthly
+New York,2015,6.0,59778,monthly
+New York,2015,7.0,57194,monthly
+New York,2015,8.0,56570,monthly
+New York,2015,9.0,61797,monthly
+New York,2015,10.0,61896,monthly
+New York,2015,11.0,60966,monthly
+New York,2015,12.0,57987,monthly
+New York,2016,1.0,58369,monthly
+New York,2016,2.0,61936,monthly
+New York,2016,3.0,60452,monthly
+New York,2016,4.0,58517,monthly
+New York,2016,5.0,60787,monthly
+New York,2016,6.0,57984,monthly
+New York,2016,7.0,63305,monthly
+New York,2016,8.0,59349,monthly
+New York,2016,9.0,61804,monthly
+New York,2016,10.0,59671,monthly
+New York,2016,11.0,60938,monthly
+New York,2016,12.0,61100,monthly
+New York,2017,1.0,60521,monthly
+New York,2017,2.0,65424,monthly
+New York,2017,3.0,64209,monthly
+New York,2017,4.0,65236,monthly
+New York,2017,5.0,64957,monthly
+New York,2017,6.0,63102,monthly
+New York,2017,7.0,65126,monthly
+New York,2017,8.0,59918,monthly
+New York,2017,9.0,60590,monthly
+New York,2017,10.0,59648,monthly
+New York,2017,11.0,61398,monthly
+New York,2017,12.0,61794,monthly
+New York,2018,1.0,62697,monthly
+New York,2018,2.0,66273,monthly
+New York,2018,3.0,63245,monthly
+New York,2018,4.0,62758,monthly
+New York,2018,5.0,64438,monthly
+New York,2018,6.0,61860,monthly
+New York,2018,7.0,66103,monthly
+New York,2018,8.0,61434,monthly
+New York,2018,9.0,67288,monthly
+New York,2018,10.0,65911,monthly
+New York,2018,11.0,62231,monthly
+New York,2018,12.0,60991,monthly
+New York,2019,1.0,67915,monthly
+New York,2019,2.0,67200,monthly
+New York,2019,3.0,67345,monthly
+New York,2019,4.0,67624,monthly
+New York,2019,5.0,63033,monthly
+New York,2019,6.0,64906,monthly
+New York,2019,7.0,63309,monthly
+New York,2019,8.0,68228,monthly
+New York,2019,9.0,66649,monthly
+New York,2019,10.0,64724,monthly
+New York,2019,11.0,62964,monthly
+New York,2019,12.0,64593,monthly
+New York,2020,1.0,66331,monthly
+New York,2020,2.0,69062,monthly
+New York,2020,3.0,68440,monthly
+New York,2020,4.0,70126,monthly
+New York,2020,5.0,67324,monthly
+New York,2020,6.0,64943,monthly
+New York,2020,7.0,68951,monthly
+New York,2020,8.0,69272,monthly
+New York,2020,9.0,67925,monthly
+New York,2020,10.0,69341,monthly
+New York,2020,11.0,67470,monthly
+New York,2020,12.0,67665,monthly
+New York,2021,1.0,68684,monthly
+New York,2021,2.0,65902,monthly
+New York,2021,3.0,66472,monthly
+New York,2021,4.0,65943,monthly
+New York,2021,5.0,70129,monthly
+New York,2021,6.0,67901,monthly
+New York,2021,7.0,69245,monthly
+New York,2021,8.0,72005,monthly
+New York,2021,9.0,67451,monthly
+New York,2021,10.0,68565,monthly
+New York,2021,11.0,70953,monthly
+New York,2021,12.0,67309,monthly
+New York,2022,1.0,67862,monthly
+New York,2022,2.0,69369,monthly
+New York,2022,3.0,68459,monthly
+New York,2022,4.0,73904,monthly
+New York,2022,5.0,73042,monthly
+New York,2022,6.0,71804,monthly
+New York,2022,7.0,73491,monthly
+New York,2022,8.0,73011,monthly
+New York,2022,9.0,68638,monthly
+New York,2022,10.0,73641,monthly
+New York,2022,11.0,71138,monthly
+New York,2022,12.0,73038,monthly
+Los Angeles,2013,1.0,54906,monthly
+Los Angeles,2013,2.0,57973,monthly
+Los Angeles,2013,3.0,54437,monthly
+Los Angeles,2013,4.0,56529,monthly
+Los Angeles,2013,5.0,52924,monthly
+Los Angeles,2013,6.0,54885,monthly
+Los Angeles,2013,7.0,54619,monthly
+Los Angeles,2013,8.0,53838,monthly
+Los Angeles,2013,9.0,55896,monthly
+Los Angeles,2013,10.0,55622,monthly
+Los Angeles,2013,11.0,56779,monthly
+Los Angeles,2013,12.0,54422,monthly
+Los Angeles,2014,1.0,55910,monthly
+Los Angeles,2014,2.0,55474,monthly
+Los Angeles,2014,3.0,55764,monthly
+Los Angeles,2014,4.0,57711,monthly
+Los Angeles,2014,5.0,56826,monthly
+Los Angeles,2014,6.0,54881,monthly
+Los Angeles,2014,7.0,55966,monthly
+Los Angeles,2014,8.0,55925,monthly
+Los Angeles,2014,9.0,58504,monthly
+Los Angeles,2014,10.0,58596,monthly
+Los Angeles,2014,11.0,55358,monthly
+Los Angeles,2014,12.0,60234,monthly
+Los Angeles,2015,1.0,57672,monthly
+Los Angeles,2015,2.0,61863,monthly
+Los Angeles,2015,3.0,58524,monthly
+Los Angeles,2015,4.0,56292,monthly
+Los Angeles,2015,5.0,58134,monthly
+Los Angeles,2015,6.0,59842,monthly
+Los Angeles,2015,7.0,60116,monthly
+Los Angeles,2015,8.0,59232,monthly
+Los Angeles,2015,9.0,58741,monthly
+Los Angeles,2015,10.0,59361,monthly
+Los Angeles,2015,11.0,59596,monthly
+Los Angeles,2015,12.0,56574,monthly
+Los Angeles,2016,1.0,59929,monthly
+Los Angeles,2016,2.0,59155,monthly
+Los Angeles,2016,3.0,62561,monthly
+Los Angeles,2016,4.0,60540,monthly
+Los Angeles,2016,5.0,63656,monthly
+Los Angeles,2016,6.0,60106,monthly
+Los Angeles,2016,7.0,62642,monthly
+Los Angeles,2016,8.0,62532,monthly
+Los Angeles,2016,9.0,58599,monthly
+Los Angeles,2016,10.0,60770,monthly
+Los Angeles,2016,11.0,61909,monthly
+Los Angeles,2016,12.0,62896,monthly
+Los Angeles,2017,1.0,61305,monthly
+Los Angeles,2017,2.0,60646,monthly
+Los Angeles,2017,3.0,63709,monthly
+Los Angeles,2017,4.0,64322,monthly
+Los Angeles,2017,5.0,61447,monthly
+Los Angeles,2017,6.0,59872,monthly
+Los Angeles,2017,7.0,65140,monthly
+Los Angeles,2017,8.0,61752,monthly
+Los Angeles,2017,9.0,62502,monthly
+Los Angeles,2017,10.0,64498,monthly
+Los Angeles,2017,11.0,63488,monthly
+Los Angeles,2017,12.0,63859,monthly
+Los Angeles,2018,1.0,62199,monthly
+Los Angeles,2018,2.0,64328,monthly
+Los Angeles,2018,3.0,65317,monthly
+Los Angeles,2018,4.0,62324,monthly
+Los Angeles,2018,5.0,61980,monthly
+Los Angeles,2018,6.0,67151,monthly
+Los Angeles,2018,7.0,64169,monthly
+Los Angeles,2018,8.0,62530,monthly
+Los Angeles,2018,9.0,67242,monthly
+Los Angeles,2018,10.0,67044,monthly
+Los Angeles,2018,11.0,64436,monthly
+Los Angeles,2018,12.0,66514,monthly
+Los Angeles,2019,1.0,63687,monthly
+Los Angeles,2019,2.0,64280,monthly
+Los Angeles,2019,3.0,67051,monthly
+Los Angeles,2019,4.0,68013,monthly
+Los Angeles,2019,5.0,68076,monthly
+Los Angeles,2019,6.0,65106,monthly
+Los Angeles,2019,7.0,68283,monthly
+Los Angeles,2019,8.0,68041,monthly
+Los Angeles,2019,9.0,68597,monthly
+Los Angeles,2019,10.0,67609,monthly
+Los Angeles,2019,11.0,66845,monthly
+Los Angeles,2019,12.0,66264,monthly
+Los Angeles,2020,1.0,66544,monthly
+Los Angeles,2020,2.0,70372,monthly
+Los Angeles,2020,3.0,70598,monthly
+Los Angeles,2020,4.0,65948,monthly
+Los Angeles,2020,5.0,66093,monthly
+Los Angeles,2020,6.0,67308,monthly
+Los Angeles,2020,7.0,67057,monthly
+Los Angeles,2020,8.0,70738,monthly
+Los Angeles,2020,9.0,65221,monthly
+Los Angeles,2020,10.0,64157,monthly
+Los Angeles,2020,11.0,67364,monthly
+Los Angeles,2020,12.0,65240,monthly
+Los Angeles,2021,1.0,68154,monthly
+Los Angeles,2021,2.0,70763,monthly
+Los Angeles,2021,3.0,70602,monthly
+Los Angeles,2021,4.0,67750,monthly
+Los Angeles,2021,5.0,69370,monthly
+Los Angeles,2021,6.0,69137,monthly
+Los Angeles,2021,7.0,70018,monthly
+Los Angeles,2021,8.0,67352,monthly
+Los Angeles,2021,9.0,69697,monthly
+Los Angeles,2021,10.0,72384,monthly
+Los Angeles,2021,11.0,68985,monthly
+Los Angeles,2021,12.0,71881,monthly
+Los Angeles,2022,1.0,70283,monthly
+Los Angeles,2022,2.0,69687,monthly
+Los Angeles,2022,3.0,71774,monthly
+Los Angeles,2022,4.0,71942,monthly
+Los Angeles,2022,5.0,73324,monthly
+Los Angeles,2022,6.0,68839,monthly
+Los Angeles,2022,7.0,70742,monthly
+Los Angeles,2022,8.0,71257,monthly
+Los Angeles,2022,9.0,72647,monthly
+Los Angeles,2022,10.0,67518,monthly
+Los Angeles,2022,11.0,74246,monthly
+Los Angeles,2022,12.0,70535,monthly
+Chicago,2013,1.0,59836,monthly
+Chicago,2013,2.0,56707,monthly
+Chicago,2013,3.0,54669,monthly
+Chicago,2013,4.0,59913,monthly
+Chicago,2013,5.0,57040,monthly
+Chicago,2013,6.0,60134,monthly
+Chicago,2013,7.0,60116,monthly
+Chicago,2013,8.0,59481,monthly
+Chicago,2013,9.0,56272,monthly
+Chicago,2013,10.0,56792,monthly
+Chicago,2013,11.0,59470,monthly
+Chicago,2013,12.0,56401,monthly
+Chicago,2014,1.0,57220,monthly
+Chicago,2014,2.0,59512,monthly
+Chicago,2014,3.0,61757,monthly
+Chicago,2014,4.0,60336,monthly
+Chicago,2014,5.0,59591,monthly
+Chicago,2014,6.0,56792,monthly
+Chicago,2014,7.0,59857,monthly
+Chicago,2014,8.0,62076,monthly
+Chicago,2014,9.0,57046,monthly
+Chicago,2014,10.0,59285,monthly
+Chicago,2014,11.0,61409,monthly
+Chicago,2014,12.0,60601,monthly
+Chicago,2015,1.0,62100,monthly
+Chicago,2015,2.0,62133,monthly
+Chicago,2015,3.0,60044,monthly
+Chicago,2015,4.0,59643,monthly
+Chicago,2015,5.0,62784,monthly
+Chicago,2015,6.0,62788,monthly
+Chicago,2015,7.0,63135,monthly
+Chicago,2015,8.0,63416,monthly
+Chicago,2015,9.0,60969,monthly
+Chicago,2015,10.0,60909,monthly
+Chicago,2015,11.0,62716,monthly
+Chicago,2015,12.0,61813,monthly
+Chicago,2016,1.0,63888,monthly
+Chicago,2016,2.0,64476,monthly
+Chicago,2016,3.0,65066,monthly
+Chicago,2016,4.0,61609,monthly
+Chicago,2016,5.0,61844,monthly
+Chicago,2016,6.0,60081,monthly
+Chicago,2016,7.0,63113,monthly
+Chicago,2016,8.0,59717,monthly
+Chicago,2016,9.0,62408,monthly
+Chicago,2016,10.0,62890,monthly
+Chicago,2016,11.0,61287,monthly
+Chicago,2016,12.0,63192,monthly
+Chicago,2017,1.0,61326,monthly
+Chicago,2017,2.0,61370,monthly
+Chicago,2017,3.0,66423,monthly
+Chicago,2017,4.0,63447,monthly
+Chicago,2017,5.0,61947,monthly
+Chicago,2017,6.0,64490,monthly
+Chicago,2017,7.0,66084,monthly
+Chicago,2017,8.0,62518,monthly
+Chicago,2017,9.0,65138,monthly
+Chicago,2017,10.0,61679,monthly
+Chicago,2017,11.0,61462,monthly
+Chicago,2017,12.0,64549,monthly
+Chicago,2018,1.0,66339,monthly
+Chicago,2018,2.0,66978,monthly
+Chicago,2018,3.0,67564,monthly
+Chicago,2018,4.0,69214,monthly
+Chicago,2018,5.0,66178,monthly
+Chicago,2018,6.0,64901,monthly
+Chicago,2018,7.0,68021,monthly
+Chicago,2018,8.0,64556,monthly
+Chicago,2018,9.0,65667,monthly
+Chicago,2018,10.0,63285,monthly
+Chicago,2018,11.0,62934,monthly
+Chicago,2018,12.0,69127,monthly
+Chicago,2019,1.0,70072,monthly
+Chicago,2019,2.0,69123,monthly
+Chicago,2019,3.0,67177,monthly
+Chicago,2019,4.0,65579,monthly
+Chicago,2019,5.0,65465,monthly
+Chicago,2019,6.0,66101,monthly
+Chicago,2019,7.0,68128,monthly
+Chicago,2019,8.0,69249,monthly
+Chicago,2019,9.0,68880,monthly
+Chicago,2019,10.0,66302,monthly
+Chicago,2019,11.0,70878,monthly
+Chicago,2019,12.0,69407,monthly
+Chicago,2020,1.0,69895,monthly
+Chicago,2020,2.0,70294,monthly
+Chicago,2020,3.0,68959,monthly
+Chicago,2020,4.0,67764,monthly
+Chicago,2020,5.0,68516,monthly
+Chicago,2020,6.0,71310,monthly
+Chicago,2020,7.0,66142,monthly
+Chicago,2020,8.0,66849,monthly
+Chicago,2020,9.0,66362,monthly
+Chicago,2020,10.0,66325,monthly
+Chicago,2020,11.0,71989,monthly
+Chicago,2020,12.0,70933,monthly
+Chicago,2021,1.0,71057,monthly
+Chicago,2021,2.0,68376,monthly
+Chicago,2021,3.0,71181,monthly
+Chicago,2021,4.0,71052,monthly
+Chicago,2021,5.0,68913,monthly
+Chicago,2021,6.0,70770,monthly
+Chicago,2021,7.0,70518,monthly
+Chicago,2021,8.0,72067,monthly
+Chicago,2021,9.0,72204,monthly
+Chicago,2021,10.0,68002,monthly
+Chicago,2021,11.0,70348,monthly
+Chicago,2021,12.0,72138,monthly
+Chicago,2022,1.0,72988,monthly
+Chicago,2022,2.0,75566,monthly
+Chicago,2022,3.0,74123,monthly
+Chicago,2022,4.0,70505,monthly
+Chicago,2022,5.0,69831,monthly
+Chicago,2022,6.0,74004,monthly
+Chicago,2022,7.0,69510,monthly
+Chicago,2022,8.0,73591,monthly
+Chicago,2022,9.0,76177,monthly
+Chicago,2022,10.0,73516,monthly
+Chicago,2022,11.0,72149,monthly
+Chicago,2022,12.0,74010,monthly
+Houston,2013,1.0,45369,monthly
+Houston,2013,2.0,45410,monthly
+Houston,2013,3.0,44554,monthly
+Houston,2013,4.0,45409,monthly
+Houston,2013,5.0,44666,monthly
+Houston,2013,6.0,42709,monthly
+Houston,2013,7.0,43005,monthly
+Houston,2013,8.0,42744,monthly
+Houston,2013,9.0,43459,monthly
+Houston,2013,10.0,41971,monthly
+Houston,2013,11.0,44520,monthly
+Houston,2013,12.0,43280,monthly
+Houston,2014,1.0,46025,monthly
+Houston,2014,2.0,44800,monthly
+Houston,2014,3.0,46143,monthly
+Houston,2014,4.0,44597,monthly
+Houston,2014,5.0,44235,monthly
+Houston,2014,6.0,45302,monthly
+Houston,2014,7.0,46194,monthly
+Houston,2014,8.0,44632,monthly
+Houston,2014,9.0,47298,monthly
+Houston,2014,10.0,43231,monthly
+Houston,2014,11.0,44948,monthly
+Houston,2014,12.0,47439,monthly
+Houston,2015,1.0,46863,monthly
+Houston,2015,2.0,46283,monthly
+Houston,2015,3.0,46959,monthly
+Houston,2015,4.0,46994,monthly
+Houston,2015,5.0,47720,monthly
+Houston,2015,6.0,44903,monthly
+Houston,2015,7.0,45474,monthly
+Houston,2015,8.0,47015,monthly
+Houston,2015,9.0,48352,monthly
+Houston,2015,10.0,46928,monthly
+Houston,2015,11.0,45420,monthly
+Houston,2015,12.0,47478,monthly
+Houston,2016,1.0,49110,monthly
+Houston,2016,2.0,46704,monthly
+Houston,2016,3.0,47373,monthly
+Houston,2016,4.0,48124,monthly
+Houston,2016,5.0,47943,monthly
+Houston,2016,6.0,47430,monthly
+Houston,2016,7.0,46989,monthly
+Houston,2016,8.0,46041,monthly
+Houston,2016,9.0,45818,monthly
+Houston,2016,10.0,50159,monthly
+Houston,2016,11.0,49624,monthly
+Houston,2016,12.0,47264,monthly
+Houston,2017,1.0,51531,monthly
+Houston,2017,2.0,50151,monthly
+Houston,2017,3.0,49193,monthly
+Houston,2017,4.0,49245,monthly
+Houston,2017,5.0,47226,monthly
+Houston,2017,6.0,47267,monthly
+Houston,2017,7.0,49784,monthly
+Houston,2017,8.0,49544,monthly
+Houston,2017,9.0,47864,monthly
+Houston,2017,10.0,51478,monthly
+Houston,2017,11.0,50666,monthly
+Houston,2017,12.0,47375,monthly
+Houston,2018,1.0,52780,monthly
+Houston,2018,2.0,52999,monthly
+Houston,2018,3.0,53109,monthly
+Houston,2018,4.0,48352,monthly
+Houston,2018,5.0,51799,monthly
+Houston,2018,6.0,50832,monthly
+Houston,2018,7.0,51641,monthly
+Houston,2018,8.0,52971,monthly
+Houston,2018,9.0,51551,monthly
+Houston,2018,10.0,52305,monthly
+Houston,2018,11.0,52456,monthly
+Houston,2018,12.0,52312,monthly
+Houston,2019,1.0,51536,monthly
+Houston,2019,2.0,50479,monthly
+Houston,2019,3.0,51383,monthly
+Houston,2019,4.0,53954,monthly
+Houston,2019,5.0,50085,monthly
+Houston,2019,6.0,51989,monthly
+Houston,2019,7.0,50534,monthly
+Houston,2019,8.0,52342,monthly
+Houston,2019,9.0,53805,monthly
+Houston,2019,10.0,53894,monthly
+Houston,2019,11.0,50552,monthly
+Houston,2019,12.0,54036,monthly
+Houston,2020,1.0,53729,monthly
+Houston,2020,2.0,52442,monthly
+Houston,2020,3.0,54348,monthly
+Houston,2020,4.0,53142,monthly
+Houston,2020,5.0,52590,monthly
+Houston,2020,6.0,54331,monthly
+Houston,2020,7.0,51902,monthly
+Houston,2020,8.0,52336,monthly
+Houston,2020,9.0,52891,monthly
+Houston,2020,10.0,51928,monthly
+Houston,2020,11.0,52735,monthly
+Houston,2020,12.0,53620,monthly
+Houston,2021,1.0,55874,monthly
+Houston,2021,2.0,56017,monthly
+Houston,2021,3.0,56321,monthly
+Houston,2021,4.0,55892,monthly
+Houston,2021,5.0,55547,monthly
+Houston,2021,6.0,53127,monthly
+Houston,2021,7.0,54015,monthly
+Houston,2021,8.0,54438,monthly
+Houston,2021,9.0,52284,monthly
+Houston,2021,10.0,54714,monthly
+Houston,2021,11.0,54212,monthly
+Houston,2021,12.0,56208,monthly
+Houston,2022,1.0,58550,monthly
+Houston,2022,2.0,56192,monthly
+Houston,2022,3.0,54889,monthly
+Houston,2022,4.0,53328,monthly
+Houston,2022,5.0,58252,monthly
+Houston,2022,6.0,58222,monthly
+Houston,2022,7.0,54499,monthly
+Houston,2022,8.0,56971,monthly
+Houston,2022,9.0,53507,monthly
+Houston,2022,10.0,54014,monthly
+Houston,2022,11.0,54297,monthly
+Houston,2022,12.0,54731,monthly
+Phoenix,2013,1.0,60732,monthly
+Phoenix,2013,2.0,60473,monthly
+Phoenix,2013,3.0,62373,monthly
+Phoenix,2013,4.0,57242,monthly
+Phoenix,2013,5.0,58654,monthly
+Phoenix,2013,6.0,62669,monthly
+Phoenix,2013,7.0,62308,monthly
+Phoenix,2013,8.0,59702,monthly
+Phoenix,2013,9.0,60688,monthly
+Phoenix,2013,10.0,58632,monthly
+Phoenix,2013,11.0,58097,monthly
+Phoenix,2013,12.0,59750,monthly
+Phoenix,2014,1.0,60861,monthly
+Phoenix,2014,2.0,62283,monthly
+Phoenix,2014,3.0,59158,monthly
+Phoenix,2014,4.0,64697,monthly
+Phoenix,2014,5.0,64770,monthly
+Phoenix,2014,6.0,62991,monthly
+Phoenix,2014,7.0,61989,monthly
+Phoenix,2014,8.0,60590,monthly
+Phoenix,2014,9.0,63705,monthly
+Phoenix,2014,10.0,62908,monthly
+Phoenix,2014,11.0,59683,monthly
+Phoenix,2014,12.0,64305,monthly
+Phoenix,2015,1.0,65616,monthly
+Phoenix,2015,2.0,66425,monthly
+Phoenix,2015,3.0,65000,monthly
+Phoenix,2015,4.0,64287,monthly
+Phoenix,2015,5.0,63046,monthly
+Phoenix,2015,6.0,66316,monthly
+Phoenix,2015,7.0,65893,monthly
+Phoenix,2015,8.0,60675,monthly
+Phoenix,2015,9.0,60555,monthly
+Phoenix,2015,10.0,62780,monthly
+Phoenix,2015,11.0,65540,monthly
+Phoenix,2015,12.0,66663,monthly
+Phoenix,2016,1.0,63080,monthly
+Phoenix,2016,2.0,65980,monthly
+Phoenix,2016,3.0,64586,monthly
+Phoenix,2016,4.0,68436,monthly
+Phoenix,2016,5.0,67601,monthly
+Phoenix,2016,6.0,67576,monthly
+Phoenix,2016,7.0,65160,monthly
+Phoenix,2016,8.0,64808,monthly
+Phoenix,2016,9.0,63883,monthly
+Phoenix,2016,10.0,62465,monthly
+Phoenix,2016,11.0,67749,monthly
+Phoenix,2016,12.0,67410,monthly
+Phoenix,2017,1.0,70520,monthly
+Phoenix,2017,2.0,70499,monthly
+Phoenix,2017,3.0,67536,monthly
+Phoenix,2017,4.0,68970,monthly
+Phoenix,2017,5.0,70151,monthly
+Phoenix,2017,6.0,69512,monthly
+Phoenix,2017,7.0,65467,monthly
+Phoenix,2017,8.0,66831,monthly
+Phoenix,2017,9.0,64673,monthly
+Phoenix,2017,10.0,70213,monthly
+Phoenix,2017,11.0,67877,monthly
+Phoenix,2017,12.0,65341,monthly
+Phoenix,2018,1.0,70147,monthly
+Phoenix,2018,2.0,69777,monthly
+Phoenix,2018,3.0,67985,monthly
+Phoenix,2018,4.0,66298,monthly
+Phoenix,2018,5.0,70146,monthly
+Phoenix,2018,6.0,69103,monthly
+Phoenix,2018,7.0,70841,monthly
+Phoenix,2018,8.0,69102,monthly
+Phoenix,2018,9.0,71391,monthly
+Phoenix,2018,10.0,69321,monthly
+Phoenix,2018,11.0,69383,monthly
+Phoenix,2018,12.0,71560,monthly
+Phoenix,2019,1.0,70079,monthly
+Phoenix,2019,2.0,68172,monthly
+Phoenix,2019,3.0,67427,monthly
+Phoenix,2019,4.0,72567,monthly
+Phoenix,2019,5.0,71613,monthly
+Phoenix,2019,6.0,72206,monthly
+Phoenix,2019,7.0,68731,monthly
+Phoenix,2019,8.0,68189,monthly
+Phoenix,2019,9.0,67327,monthly
+Phoenix,2019,10.0,69704,monthly
+Phoenix,2019,11.0,71398,monthly
+Phoenix,2019,12.0,69999,monthly
+Phoenix,2020,1.0,72107,monthly
+Phoenix,2020,2.0,75493,monthly
+Phoenix,2020,3.0,71460,monthly
+Phoenix,2020,4.0,72662,monthly
+Phoenix,2020,5.0,74619,monthly
+Phoenix,2020,6.0,71810,monthly
+Phoenix,2020,7.0,73447,monthly
+Phoenix,2020,8.0,75190,monthly
+Phoenix,2020,9.0,75823,monthly
+Phoenix,2020,10.0,70000,monthly
+Phoenix,2020,11.0,75656,monthly
+Phoenix,2020,12.0,72504,monthly
+Phoenix,2021,1.0,72562,monthly
+Phoenix,2021,2.0,74056,monthly
+Phoenix,2021,3.0,77929,monthly
+Phoenix,2021,4.0,74305,monthly
+Phoenix,2021,5.0,73086,monthly
+Phoenix,2021,6.0,75352,monthly
+Phoenix,2021,7.0,72428,monthly
+Phoenix,2021,8.0,71206,monthly
+Phoenix,2021,9.0,71600,monthly
+Phoenix,2021,10.0,71594,monthly
+Phoenix,2021,11.0,71771,monthly
+Phoenix,2021,12.0,71674,monthly
+Phoenix,2022,1.0,77232,monthly
+Phoenix,2022,2.0,73736,monthly
+Phoenix,2022,3.0,74983,monthly
+Phoenix,2022,4.0,79181,monthly
+Phoenix,2022,5.0,75961,monthly
+Phoenix,2022,6.0,77435,monthly
+Phoenix,2022,7.0,73663,monthly
+Phoenix,2022,8.0,73815,monthly
+Phoenix,2022,9.0,72662,monthly
+Phoenix,2022,10.0,73637,monthly
+Phoenix,2022,11.0,74473,monthly
+Phoenix,2022,12.0,73699,monthly
+Philadelphia,2013,1.0,53977,monthly
+Philadelphia,2013,2.0,53900,monthly
+Philadelphia,2013,3.0,52942,monthly
+Philadelphia,2013,4.0,55833,monthly
+Philadelphia,2013,5.0,51721,monthly
+Philadelphia,2013,6.0,52803,monthly
+Philadelphia,2013,7.0,52757,monthly
+Philadelphia,2013,8.0,51525,monthly
+Philadelphia,2013,9.0,53614,monthly
+Philadelphia,2013,10.0,54724,monthly
+Philadelphia,2013,11.0,53778,monthly
+Philadelphia,2013,12.0,51873,monthly
+Philadelphia,2014,1.0,54648,monthly
+Philadelphia,2014,2.0,52575,monthly
+Philadelphia,2014,3.0,57365,monthly
+Philadelphia,2014,4.0,53028,monthly
+Philadelphia,2014,5.0,55865,monthly
+Philadelphia,2014,6.0,58017,monthly
+Philadelphia,2014,7.0,55529,monthly
+Philadelphia,2014,8.0,57673,monthly
+Philadelphia,2014,9.0,53867,monthly
+Philadelphia,2014,10.0,56765,monthly
+Philadelphia,2014,11.0,55500,monthly
+Philadelphia,2014,12.0,56547,monthly
+Philadelphia,2015,1.0,54446,monthly
+Philadelphia,2015,2.0,54933,monthly
+Philadelphia,2015,3.0,54849,monthly
+Philadelphia,2015,4.0,58004,monthly
+Philadelphia,2015,5.0,58900,monthly
+Philadelphia,2015,6.0,58360,monthly
+Philadelphia,2015,7.0,54265,monthly
+Philadelphia,2015,8.0,59029,monthly
+Philadelphia,2015,9.0,56108,monthly
+Philadelphia,2015,10.0,56353,monthly
+Philadelphia,2015,11.0,54689,monthly
+Philadelphia,2015,12.0,58290,monthly
+Philadelphia,2016,1.0,56690,monthly
+Philadelphia,2016,2.0,58924,monthly
+Philadelphia,2016,3.0,60545,monthly
+Philadelphia,2016,4.0,56145,monthly
+Philadelphia,2016,5.0,58757,monthly
+Philadelphia,2016,6.0,56988,monthly
+Philadelphia,2016,7.0,57630,monthly
+Philadelphia,2016,8.0,58398,monthly
+Philadelphia,2016,9.0,57702,monthly
+Philadelphia,2016,10.0,59421,monthly
+Philadelphia,2016,11.0,58430,monthly
+Philadelphia,2016,12.0,59043,monthly
+Philadelphia,2017,1.0,61586,monthly
+Philadelphia,2017,2.0,60509,monthly
+Philadelphia,2017,3.0,60682,monthly
+Philadelphia,2017,4.0,60549,monthly
+Philadelphia,2017,5.0,59432,monthly
+Philadelphia,2017,6.0,59183,monthly
+Philadelphia,2017,7.0,62566,monthly
+Philadelphia,2017,8.0,60808,monthly
+Philadelphia,2017,9.0,58623,monthly
+Philadelphia,2017,10.0,60151,monthly
+Philadelphia,2017,11.0,59141,monthly
+Philadelphia,2017,12.0,62771,monthly
+Philadelphia,2018,1.0,58731,monthly
+Philadelphia,2018,2.0,60076,monthly
+Philadelphia,2018,3.0,60941,monthly
+Philadelphia,2018,4.0,61698,monthly
+Philadelphia,2018,5.0,63940,monthly
+Philadelphia,2018,6.0,59227,monthly
+Philadelphia,2018,7.0,63662,monthly
+Philadelphia,2018,8.0,59028,monthly
+Philadelphia,2018,9.0,63887,monthly
+Philadelphia,2018,10.0,59003,monthly
+Philadelphia,2018,11.0,58797,monthly
+Philadelphia,2018,12.0,62990,monthly
+Philadelphia,2019,1.0,66536,monthly
+Philadelphia,2019,2.0,65898,monthly
+Philadelphia,2019,3.0,63866,monthly
+Philadelphia,2019,4.0,66030,monthly
+Philadelphia,2019,5.0,60249,monthly
+Philadelphia,2019,6.0,66396,monthly
+Philadelphia,2019,7.0,63326,monthly
+Philadelphia,2019,8.0,64797,monthly
+Philadelphia,2019,9.0,65418,monthly
+Philadelphia,2019,10.0,64769,monthly
+Philadelphia,2019,11.0,63606,monthly
+Philadelphia,2019,12.0,63236,monthly
+Philadelphia,2020,1.0,67197,monthly
+Philadelphia,2020,2.0,63079,monthly
+Philadelphia,2020,3.0,68038,monthly
+Philadelphia,2020,4.0,66367,monthly
+Philadelphia,2020,5.0,63043,monthly
+Philadelphia,2020,6.0,66531,monthly
+Philadelphia,2020,7.0,65190,monthly
+Philadelphia,2020,8.0,66343,monthly
+Philadelphia,2020,9.0,66736,monthly
+Philadelphia,2020,10.0,62313,monthly
+Philadelphia,2020,11.0,65036,monthly
+Philadelphia,2020,12.0,67804,monthly
+Philadelphia,2021,1.0,65413,monthly
+Philadelphia,2021,2.0,67233,monthly
+Philadelphia,2021,3.0,65736,monthly
+Philadelphia,2021,4.0,66303,monthly
+Philadelphia,2021,5.0,66931,monthly
+Philadelphia,2021,6.0,66933,monthly
+Philadelphia,2021,7.0,64621,monthly
+Philadelphia,2021,8.0,67837,monthly
+Philadelphia,2021,9.0,63862,monthly
+Philadelphia,2021,10.0,64202,monthly
+Philadelphia,2021,11.0,63295,monthly
+Philadelphia,2021,12.0,64054,monthly
+Philadelphia,2022,1.0,68036,monthly
+Philadelphia,2022,2.0,68943,monthly
+Philadelphia,2022,3.0,70226,monthly
+Philadelphia,2022,4.0,65536,monthly
+Philadelphia,2022,5.0,70611,monthly
+Philadelphia,2022,6.0,69897,monthly
+Philadelphia,2022,7.0,67595,monthly
+Philadelphia,2022,8.0,71172,monthly
+Philadelphia,2022,9.0,71568,monthly
+Philadelphia,2022,10.0,66206,monthly
+Philadelphia,2022,11.0,67395,monthly
+Philadelphia,2022,12.0,71128,monthly
+San Antonio,2013,1.0,43714,monthly
+San Antonio,2013,2.0,44874,monthly
+San Antonio,2013,3.0,41827,monthly
+San Antonio,2013,4.0,44672,monthly
+San Antonio,2013,5.0,42096,monthly
+San Antonio,2013,6.0,41931,monthly
+San Antonio,2013,7.0,41934,monthly
+San Antonio,2013,8.0,44755,monthly
+San Antonio,2013,9.0,44107,monthly
+San Antonio,2013,10.0,43491,monthly
+San Antonio,2013,11.0,42778,monthly
+San Antonio,2013,12.0,45027,monthly
+San Antonio,2014,1.0,44212,monthly
+San Antonio,2014,2.0,46107,monthly
+San Antonio,2014,3.0,44420,monthly
+San Antonio,2014,4.0,44142,monthly
+San Antonio,2014,5.0,44525,monthly
+San Antonio,2014,6.0,43805,monthly
+San Antonio,2014,7.0,45799,monthly
+San Antonio,2014,8.0,44704,monthly
+San Antonio,2014,9.0,43495,monthly
+San Antonio,2014,10.0,46478,monthly
+San Antonio,2014,11.0,44173,monthly
+San Antonio,2014,12.0,44887,monthly
+San Antonio,2015,1.0,47864,monthly
+San Antonio,2015,2.0,46565,monthly
+San Antonio,2015,3.0,44232,monthly
+San Antonio,2015,4.0,48017,monthly
+San Antonio,2015,5.0,46581,monthly
+San Antonio,2015,6.0,45235,monthly
+San Antonio,2015,7.0,44335,monthly
+San Antonio,2015,8.0,47346,monthly
+San Antonio,2015,9.0,46546,monthly
+San Antonio,2015,10.0,46148,monthly
+San Antonio,2015,11.0,47806,monthly
+San Antonio,2015,12.0,47321,monthly
+San Antonio,2016,1.0,45648,monthly
+San Antonio,2016,2.0,46405,monthly
+San Antonio,2016,3.0,46106,monthly
+San Antonio,2016,4.0,48449,monthly
+San Antonio,2016,5.0,45089,monthly
+San Antonio,2016,6.0,47626,monthly
+San Antonio,2016,7.0,48537,monthly
+San Antonio,2016,8.0,49078,monthly
+San Antonio,2016,9.0,46549,monthly
+San Antonio,2016,10.0,48815,monthly
+San Antonio,2016,11.0,45454,monthly
+San Antonio,2016,12.0,48934,monthly
+San Antonio,2017,1.0,46787,monthly
+San Antonio,2017,2.0,48098,monthly
+San Antonio,2017,3.0,50042,monthly
+San Antonio,2017,4.0,46896,monthly
+San Antonio,2017,5.0,47282,monthly
+San Antonio,2017,6.0,49678,monthly
+San Antonio,2017,7.0,49667,monthly
+San Antonio,2017,8.0,49283,monthly
+San Antonio,2017,9.0,49540,monthly
+San Antonio,2017,10.0,48805,monthly
+San Antonio,2017,11.0,47391,monthly
+San Antonio,2017,12.0,47848,monthly
+San Antonio,2018,1.0,48310,monthly
+San Antonio,2018,2.0,51937,monthly
+San Antonio,2018,3.0,50315,monthly
+San Antonio,2018,4.0,49404,monthly
+San Antonio,2018,5.0,49710,monthly
+San Antonio,2018,6.0,52131,monthly
+San Antonio,2018,7.0,48169,monthly
+San Antonio,2018,8.0,50329,monthly
+San Antonio,2018,9.0,49929,monthly
+San Antonio,2018,10.0,50455,monthly
+San Antonio,2018,11.0,47495,monthly
+San Antonio,2018,12.0,51756,monthly
+San Antonio,2019,1.0,53413,monthly
+San Antonio,2019,2.0,51534,monthly
+San Antonio,2019,3.0,52208,monthly
+San Antonio,2019,4.0,53364,monthly
+San Antonio,2019,5.0,52262,monthly
+San Antonio,2019,6.0,49422,monthly
+San Antonio,2019,7.0,51591,monthly
+San Antonio,2019,8.0,51747,monthly
+San Antonio,2019,9.0,50812,monthly
+San Antonio,2019,10.0,52412,monthly
+San Antonio,2019,11.0,53425,monthly
+San Antonio,2019,12.0,53380,monthly
+San Antonio,2020,1.0,52245,monthly
+San Antonio,2020,2.0,50472,monthly
+San Antonio,2020,3.0,55048,monthly
+San Antonio,2020,4.0,54282,monthly
+San Antonio,2020,5.0,50532,monthly
+San Antonio,2020,6.0,54712,monthly
+San Antonio,2020,7.0,54445,monthly
+San Antonio,2020,8.0,52602,monthly
+San Antonio,2020,9.0,52982,monthly
+San Antonio,2020,10.0,51972,monthly
+San Antonio,2020,11.0,50165,monthly
+San Antonio,2020,12.0,51637,monthly
+San Antonio,2021,1.0,55434,monthly
+San Antonio,2021,2.0,51139,monthly
+San Antonio,2021,3.0,52908,monthly
+San Antonio,2021,4.0,53256,monthly
+San Antonio,2021,5.0,54006,monthly
+San Antonio,2021,6.0,56063,monthly
+San Antonio,2021,7.0,52978,monthly
+San Antonio,2021,8.0,52981,monthly
+San Antonio,2021,9.0,55082,monthly
+San Antonio,2021,10.0,53547,monthly
+San Antonio,2021,11.0,52323,monthly
+San Antonio,2021,12.0,53548,monthly
+San Antonio,2022,1.0,53127,monthly
+San Antonio,2022,2.0,53323,monthly
+San Antonio,2022,3.0,55097,monthly
+San Antonio,2022,4.0,54659,monthly
+San Antonio,2022,5.0,57392,monthly
+San Antonio,2022,6.0,54348,monthly
+San Antonio,2022,7.0,55550,monthly
+San Antonio,2022,8.0,55835,monthly
+San Antonio,2022,9.0,52423,monthly
+San Antonio,2022,10.0,56007,monthly
+San Antonio,2022,11.0,53332,monthly
+San Antonio,2022,12.0,57647,monthly
+San Diego,2013,1.0,57399,monthly
+San Diego,2013,2.0,59130,monthly
+San Diego,2013,3.0,57272,monthly
+San Diego,2013,4.0,55271,monthly
+San Diego,2013,5.0,55928,monthly
+San Diego,2013,6.0,55987,monthly
+San Diego,2013,7.0,56485,monthly
+San Diego,2013,8.0,56654,monthly
+San Diego,2013,9.0,58782,monthly
+San Diego,2013,10.0,56212,monthly
+San Diego,2013,11.0,56890,monthly
+San Diego,2013,12.0,57785,monthly
+San Diego,2014,1.0,58065,monthly
+San Diego,2014,2.0,60762,monthly
+San Diego,2014,3.0,59298,monthly
+San Diego,2014,4.0,57573,monthly
+San Diego,2014,5.0,60042,monthly
+San Diego,2014,6.0,58946,monthly
+San Diego,2014,7.0,58986,monthly
+San Diego,2014,8.0,58672,monthly
+San Diego,2014,9.0,58766,monthly
+San Diego,2014,10.0,60344,monthly
+San Diego,2014,11.0,56450,monthly
+San Diego,2014,12.0,57810,monthly
+San Diego,2015,1.0,57928,monthly
+San Diego,2015,2.0,62028,monthly
+San Diego,2015,3.0,59118,monthly
+San Diego,2015,4.0,62900,monthly
+San Diego,2015,5.0,60657,monthly
+San Diego,2015,6.0,62315,monthly
+San Diego,2015,7.0,63393,monthly
+San Diego,2015,8.0,62551,monthly
+San Diego,2015,9.0,62716,monthly
+San Diego,2015,10.0,59939,monthly
+San Diego,2015,11.0,60809,monthly
+San Diego,2015,12.0,59007,monthly
+San Diego,2016,1.0,60318,monthly
+San Diego,2016,2.0,62242,monthly
+San Diego,2016,3.0,62799,monthly
+San Diego,2016,4.0,61208,monthly
+San Diego,2016,5.0,62640,monthly
+San Diego,2016,6.0,64618,monthly
+San Diego,2016,7.0,62561,monthly
+San Diego,2016,8.0,63582,monthly
+San Diego,2016,9.0,64107,monthly
+San Diego,2016,10.0,65248,monthly
+San Diego,2016,11.0,62850,monthly
+San Diego,2016,12.0,64117,monthly
+San Diego,2017,1.0,66877,monthly
+San Diego,2017,2.0,66761,monthly
+San Diego,2017,3.0,61626,monthly
+San Diego,2017,4.0,63322,monthly
+San Diego,2017,5.0,62795,monthly
+San Diego,2017,6.0,61280,monthly
+San Diego,2017,7.0,64772,monthly
+San Diego,2017,8.0,65428,monthly
+San Diego,2017,9.0,66145,monthly
+San Diego,2017,10.0,61509,monthly
+San Diego,2017,11.0,66326,monthly
+San Diego,2017,12.0,64834,monthly
+San Diego,2018,1.0,66971,monthly
+San Diego,2018,2.0,68327,monthly
+San Diego,2018,3.0,66451,monthly
+San Diego,2018,4.0,64555,monthly
+San Diego,2018,5.0,67766,monthly
+San Diego,2018,6.0,64734,monthly
+San Diego,2018,7.0,62575,monthly
+San Diego,2018,8.0,67802,monthly
+San Diego,2018,9.0,64616,monthly
+San Diego,2018,10.0,67430,monthly
+San Diego,2018,11.0,64732,monthly
+San Diego,2018,12.0,68002,monthly
+San Diego,2019,1.0,65456,monthly
+San Diego,2019,2.0,70540,monthly
+San Diego,2019,3.0,69228,monthly
+San Diego,2019,4.0,64747,monthly
+San Diego,2019,5.0,67787,monthly
+San Diego,2019,6.0,70613,monthly
+San Diego,2019,7.0,67150,monthly
+San Diego,2019,8.0,65204,monthly
+San Diego,2019,9.0,67242,monthly
+San Diego,2019,10.0,67428,monthly
+San Diego,2019,11.0,68972,monthly
+San Diego,2019,12.0,68684,monthly
+San Diego,2020,1.0,68384,monthly
+San Diego,2020,2.0,67109,monthly
+San Diego,2020,3.0,70058,monthly
+San Diego,2020,4.0,68516,monthly
+San Diego,2020,5.0,66517,monthly
+San Diego,2020,6.0,71823,monthly
+San Diego,2020,7.0,70377,monthly
+San Diego,2020,8.0,70322,monthly
+San Diego,2020,9.0,71284,monthly
+San Diego,2020,10.0,69261,monthly
+San Diego,2020,11.0,71232,monthly
+San Diego,2020,12.0,69043,monthly
+San Diego,2021,1.0,67706,monthly
+San Diego,2021,2.0,70098,monthly
+San Diego,2021,3.0,70751,monthly
+San Diego,2021,4.0,72327,monthly
+San Diego,2021,5.0,67985,monthly
+San Diego,2021,6.0,68221,monthly
+San Diego,2021,7.0,69096,monthly
+San Diego,2021,8.0,69116,monthly
+San Diego,2021,9.0,72412,monthly
+San Diego,2021,10.0,69005,monthly
+San Diego,2021,11.0,71711,monthly
+San Diego,2021,12.0,70728,monthly
+San Diego,2022,1.0,73012,monthly
+San Diego,2022,2.0,74932,monthly
+San Diego,2022,3.0,71788,monthly
+San Diego,2022,4.0,74445,monthly
+San Diego,2022,5.0,71916,monthly
+San Diego,2022,6.0,71422,monthly
+San Diego,2022,7.0,75805,monthly
+San Diego,2022,8.0,70193,monthly
+San Diego,2022,9.0,69512,monthly
+San Diego,2022,10.0,74445,monthly
+San Diego,2022,11.0,69352,monthly
+San Diego,2022,12.0,74924,monthly
+Chicago,2013,,696831,annual
+Chicago,2014,,715482,annual
+Chicago,2015,,742450,annual
+Chicago,2016,,749571,annual
+Chicago,2017,,760433,annual
+Chicago,2018,,794764,annual
+Chicago,2019,,816361,annual
+Chicago,2020,,825338,annual
+Chicago,2021,,846626,annual
+Chicago,2022,,875970,annual
+Houston,2013,,527096,annual
+Houston,2014,,544844,annual
+Houston,2015,,560389,annual
+Houston,2016,,572579,annual
+Houston,2017,,591324,annual
+Houston,2018,,623107,annual
+Houston,2019,,624589,annual
+Houston,2020,,635994,annual
+Houston,2021,,658649,annual
+Houston,2022,,667452,annual
+Los Angeles,2013,,662830,annual
+Los Angeles,2014,,681149,annual
+Los Angeles,2015,,705947,annual
+Los Angeles,2016,,735295,annual
+Los Angeles,2017,,752540,annual
+Los Angeles,2018,,775234,annual
+Los Angeles,2019,,801852,annual
+Los Angeles,2020,,806640,annual
+Los Angeles,2021,,836093,annual
+Los Angeles,2022,,852794,annual
+New York,2013,,673159,annual
+New York,2014,,678102,annual
+New York,2015,,709758,annual
+New York,2016,,724212,annual
+New York,2017,,751923,annual
+New York,2018,,765229,annual
+New York,2019,,788490,annual
+New York,2020,,816850,annual
+New York,2021,,820559,annual
+New York,2022,,857397,annual
+Philadelphia,2013,,639447,annual
+Philadelphia,2014,,667379,annual
+Philadelphia,2015,,678226,annual
+Philadelphia,2016,,698673,annual
+Philadelphia,2017,,726001,annual
+Philadelphia,2018,,731980,annual
+Philadelphia,2019,,774127,annual
+Philadelphia,2020,,787677,annual
+Philadelphia,2021,,786420,annual
+Philadelphia,2022,,828313,annual
+Phoenix,2013,,721320,annual
+Phoenix,2014,,747940,annual
+Phoenix,2015,,772796,annual
+Phoenix,2016,,788734,annual
+Phoenix,2017,,817590,annual
+Phoenix,2018,,835054,annual
+Phoenix,2019,,837412,annual
+Phoenix,2020,,880771,annual
+Phoenix,2021,,877563,annual
+Phoenix,2022,,900477,annual
+San Antonio,2013,,521206,annual
+San Antonio,2014,,536747,annual
+San Antonio,2015,,557996,annual
+San Antonio,2016,,566690,annual
+San Antonio,2017,,581317,annual
+San Antonio,2018,,599940,annual
+San Antonio,2019,,625570,annual
+San Antonio,2020,,631094,annual
+San Antonio,2021,,643265,annual
+San Antonio,2022,,658740,annual
+San Diego,2013,,683795,annual
+San Diego,2014,,705714,annual
+San Diego,2015,,733361,annual
+San Diego,2016,,756290,annual
+San Diego,2017,,771675,annual
+San Diego,2018,,793961,annual
+San Diego,2019,,813051,annual
+San Diego,2020,,833926,annual
+San Diego,2021,,839156,annual
+San Diego,2022,,871746,annual

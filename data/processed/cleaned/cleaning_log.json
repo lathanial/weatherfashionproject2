@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2025-12-08T14:40:19.329563",
+    "action": "forward filled TMIN_std",
+    "details": "1 values"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.330376",
+    "action": "forward filled AWND_mean",
+    "details": "4 values"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.332105",
+    "action": "winsorized TMAX_mean",
+    "details": "9 low, 9 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.332762",
+    "action": "winsorized TMAX_max",
+    "details": "9 low, 9 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.333452",
+    "action": "winsorized TMAX_std",
+    "details": "9 low, 9 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.334641",
+    "action": "winsorized TMIN_mean",
+    "details": "9 low, 9 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.335407",
+    "action": "winsorized TMIN_min",
+    "details": "9 low, 5 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.335961",
+    "action": "winsorized TMIN_std",
+    "details": "9 low, 9 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.336505",
+    "action": "winsorized PRCP_sum",
+    "details": "0 low, 9 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.337023",
+    "action": "winsorized SNOW_sum",
+    "details": "0 low, 9 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.337544",
+    "action": "winsorized AWND_mean",
+    "details": "9 low, 9 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.338057",
+    "action": "winsorized TMAX_anomaly_mean",
+    "details": "9 low, 9 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.338651",
+    "action": "winsorized TMIN_anomaly_mean",
+    "details": "9 low, 9 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.339173",
+    "action": "winsorized PRCP_anomaly_sum",
+    "details": "9 low, 9 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.339823",
+    "action": "standardized city names",
+    "details": "converted to title case"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.346532",
+    "action": "removed invalid months",
+    "details": "80 records"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.348684",
+    "action": "winsorized retail_sales",
+    "details": "10 low, 10 high"
+  },
+  {
+    "timestamp": "2025-12-08T14:40:19.349067",
+    "action": "standardized city names",
+    "details": "converted to title case"
+  }
+]

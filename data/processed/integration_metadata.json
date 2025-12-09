@@ -1,0 +1,19 @@
+{
+  "integration_date": "2025-12-08T14:40:10.689245",
+  "weather_records": 894,
+  "retail_records": 1040,
+  "cities": [
+    "Chicago",
+    "Houston",
+    "Los Angeles",
+    "New York",
+    "Philadelphia",
+    "Phoenix",
+    "San Antonio",
+    "San Diego"
+  ],
+  "date_range": {
+    "start": 2013,
+    "end": 2022
+  }
+}

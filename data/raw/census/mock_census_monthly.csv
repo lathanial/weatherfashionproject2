@@ -1,0 +1,961 @@
+city,year,month,retail_sales
+New York,2013,1,58309
+New York,2013,2,57089
+New York,2013,3,56345
+New York,2013,4,53875
+New York,2013,5,53875
+New York,2013,6,53329
+New York,2013,7,57838
+New York,2013,8,56359
+New York,2013,9,56955
+New York,2013,10,53120
+New York,2013,11,58416
+New York,2013,12,57649
+New York,2014,1,55815
+New York,2014,2,55640
+New York,2014,3,55649
+New York,2014,4,56343
+New York,2014,5,57611
+New York,2014,6,57077
+New York,2014,7,56269
+New York,2014,8,58111
+New York,2014,9,55397
+New York,2014,10,56274
+New York,2014,11,56700
+New York,2014,12,57216
+New York,2015,1,60829
+New York,2015,2,57366
+New York,2015,3,59226
+New York,2015,4,59689
+New York,2015,5,56460
+New York,2015,6,59778
+New York,2015,7,57194
+New York,2015,8,56570
+New York,2015,9,61797
+New York,2015,10,61896
+New York,2015,11,60966
+New York,2015,12,57987
+New York,2016,1,58369
+New York,2016,2,61936
+New York,2016,3,60452
+New York,2016,4,58517
+New York,2016,5,60787
+New York,2016,6,57984
+New York,2016,7,63305
+New York,2016,8,59349
+New York,2016,9,61804
+New York,2016,10,59671
+New York,2016,11,60938
+New York,2016,12,61100
+New York,2017,1,60521
+New York,2017,2,65424
+New York,2017,3,64209
+New York,2017,4,65236
+New York,2017,5,64957
+New York,2017,6,63102
+New York,2017,7,65126
+New York,2017,8,59918
+New York,2017,9,60590
+New York,2017,10,59648
+New York,2017,11,61398
+New York,2017,12,61794
+New York,2018,1,62697
+New York,2018,2,66273
+New York,2018,3,63245
+New York,2018,4,62758
+New York,2018,5,64438
+New York,2018,6,61860
+New York,2018,7,66103
+New York,2018,8,61434
+New York,2018,9,67288
+New York,2018,10,65911
+New York,2018,11,62231
+New York,2018,12,60991
+New York,2019,1,67915
+New York,2019,2,67200
+New York,2019,3,67345
+New York,2019,4,67624
+New York,2019,5,63033
+New York,2019,6,64906
+New York,2019,7,63309
+New York,2019,8,68228
+New York,2019,9,66649
+New York,2019,10,64724
+New York,2019,11,62964
+New York,2019,12,64593
+New York,2020,1,66331
+New York,2020,2,69062
+New York,2020,3,68440
+New York,2020,4,70126
+New York,2020,5,67324
+New York,2020,6,64943
+New York,2020,7,68951
+New York,2020,8,69272
+New York,2020,9,67925
+New York,2020,10,69341
+New York,2020,11,67470
+New York,2020,12,67665
+New York,2021,1,68684
+New York,2021,2,65902
+New York,2021,3,66472
+New York,2021,4,65943
+New York,2021,5,70129
+New York,2021,6,67901
+New York,2021,7,69245
+New York,2021,8,72005
+New York,2021,9,67451
+New York,2021,10,68565
+New York,2021,11,70953
+New York,2021,12,67309
+New York,2022,1,67862
+New York,2022,2,69369
+New York,2022,3,68459
+New York,2022,4,73904
+New York,2022,5,73042
+New York,2022,6,71804
+New York,2022,7,73491
+New York,2022,8,73011
+New York,2022,9,68638
+New York,2022,10,73641
+New York,2022,11,71138
+New York,2022,12,73038
+Los Angeles,2013,1,54906
+Los Angeles,2013,2,57973
+Los Angeles,2013,3,54437
+Los Angeles,2013,4,56529
+Los Angeles,2013,5,52924
+Los Angeles,2013,6,54885
+Los Angeles,2013,7,54619
+Los Angeles,2013,8,53838
+Los Angeles,2013,9,55896
+Los Angeles,2013,10,55622
+Los Angeles,2013,11,56779
+Los Angeles,2013,12,54422
+Los Angeles,2014,1,55910
+Los Angeles,2014,2,55474
+Los Angeles,2014,3,55764
+Los Angeles,2014,4,57711
+Los Angeles,2014,5,56826
+Los Angeles,2014,6,54881
+Los Angeles,2014,7,55966
+Los Angeles,2014,8,55925
+Los Angeles,2014,9,58504
+Los Angeles,2014,10,58596
+Los Angeles,2014,11,55358
+Los Angeles,2014,12,60234
+Los Angeles,2015,1,57672
+Los Angeles,2015,2,61863
+Los Angeles,2015,3,58524
+Los Angeles,2015,4,56292
+Los Angeles,2015,5,58134
+Los Angeles,2015,6,59842
+Los Angeles,2015,7,60116
+Los Angeles,2015,8,59232
+Los Angeles,2015,9,58741
+Los Angeles,2015,10,59361
+Los Angeles,2015,11,59596
+Los Angeles,2015,12,56574
+Los Angeles,2016,1,59929
+Los Angeles,2016,2,59155
+Los Angeles,2016,3,62561
+Los Angeles,2016,4,60540
+Los Angeles,2016,5,63656
+Los Angeles,2016,6,60106
+Los Angeles,2016,7,62642
+Los Angeles,2016,8,62532
+Los Angeles,2016,9,58599
+Los Angeles,2016,10,60770
+Los Angeles,2016,11,61909
+Los Angeles,2016,12,62896
+Los Angeles,2017,1,61305
+Los Angeles,2017,2,60646
+Los Angeles,2017,3,63709
+Los Angeles,2017,4,64322
+Los Angeles,2017,5,61447
+Los Angeles,2017,6,59872
+Los Angeles,2017,7,65140
+Los Angeles,2017,8,61752
+Los Angeles,2017,9,62502
+Los Angeles,2017,10,64498
+Los Angeles,2017,11,63488
+Los Angeles,2017,12,63859
+Los Angeles,2018,1,62199
+Los Angeles,2018,2,64328
+Los Angeles,2018,3,65317
+Los Angeles,2018,4,62324
+Los Angeles,2018,5,61980
+Los Angeles,2018,6,67151
+Los Angeles,2018,7,64169
+Los Angeles,2018,8,62530
+Los Angeles,2018,9,67242
+Los Angeles,2018,10,67044
+Los Angeles,2018,11,64436
+Los Angeles,2018,12,66514
+Los Angeles,2019,1,63687
+Los Angeles,2019,2,64280
+Los Angeles,2019,3,67051
+Los Angeles,2019,4,68013
+Los Angeles,2019,5,68076
+Los Angeles,2019,6,65106
+Los Angeles,2019,7,68283
+Los Angeles,2019,8,68041
+Los Angeles,2019,9,68597
+Los Angeles,2019,10,67609
+Los Angeles,2019,11,66845
+Los Angeles,2019,12,66264
+Los Angeles,2020,1,66544
+Los Angeles,2020,2,70372
+Los Angeles,2020,3,70598
+Los Angeles,2020,4,65948
+Los Angeles,2020,5,66093
+Los Angeles,2020,6,67308
+Los Angeles,2020,7,67057
+Los Angeles,2020,8,70738
+Los Angeles,2020,9,65221
+Los Angeles,2020,10,64157
+Los Angeles,2020,11,67364
+Los Angeles,2020,12,65240
+Los Angeles,2021,1,68154
+Los Angeles,2021,2,70763
+Los Angeles,2021,3,70602
+Los Angeles,2021,4,67750
+Los Angeles,2021,5,69370
+Los Angeles,2021,6,69137
+Los Angeles,2021,7,70018
+Los Angeles,2021,8,67352
+Los Angeles,2021,9,69697
+Los Angeles,2021,10,72384
+Los Angeles,2021,11,68985
+Los Angeles,2021,12,71881
+Los Angeles,2022,1,70283
+Los Angeles,2022,2,69687
+Los Angeles,2022,3,71774
+Los Angeles,2022,4,71942
+Los Angeles,2022,5,73324
+Los Angeles,2022,6,68839
+Los Angeles,2022,7,70742
+Los Angeles,2022,8,71257
+Los Angeles,2022,9,72647
+Los Angeles,2022,10,67518
+Los Angeles,2022,11,74246
+Los Angeles,2022,12,70535
+Chicago,2013,1,59836
+Chicago,2013,2,56707
+Chicago,2013,3,54669
+Chicago,2013,4,59913
+Chicago,2013,5,57040
+Chicago,2013,6,60134
+Chicago,2013,7,60116
+Chicago,2013,8,59481
+Chicago,2013,9,56272
+Chicago,2013,10,56792
+Chicago,2013,11,59470
+Chicago,2013,12,56401
+Chicago,2014,1,57220
+Chicago,2014,2,59512
+Chicago,2014,3,61757
+Chicago,2014,4,60336
+Chicago,2014,5,59591
+Chicago,2014,6,56792
+Chicago,2014,7,59857
+Chicago,2014,8,62076
+Chicago,2014,9,57046
+Chicago,2014,10,59285
+Chicago,2014,11,61409
+Chicago,2014,12,60601
+Chicago,2015,1,62100
+Chicago,2015,2,62133
+Chicago,2015,3,60044
+Chicago,2015,4,59643
+Chicago,2015,5,62784
+Chicago,2015,6,62788
+Chicago,2015,7,63135
+Chicago,2015,8,63416
+Chicago,2015,9,60969
+Chicago,2015,10,60909
+Chicago,2015,11,62716
+Chicago,2015,12,61813
+Chicago,2016,1,63888
+Chicago,2016,2,64476
+Chicago,2016,3,65066
+Chicago,2016,4,61609
+Chicago,2016,5,61844
+Chicago,2016,6,60081
+Chicago,2016,7,63113
+Chicago,2016,8,59717
+Chicago,2016,9,62408
+Chicago,2016,10,62890
+Chicago,2016,11,61287
+Chicago,2016,12,63192
+Chicago,2017,1,61326
+Chicago,2017,2,61370
+Chicago,2017,3,66423
+Chicago,2017,4,63447
+Chicago,2017,5,61947
+Chicago,2017,6,64490
+Chicago,2017,7,66084
+Chicago,2017,8,62518
+Chicago,2017,9,65138
+Chicago,2017,10,61679
+Chicago,2017,11,61462
+Chicago,2017,12,64549
+Chicago,2018,1,66339
+Chicago,2018,2,66978
+Chicago,2018,3,67564
+Chicago,2018,4,69214
+Chicago,2018,5,66178
+Chicago,2018,6,64901
+Chicago,2018,7,68021
+Chicago,2018,8,64556
+Chicago,2018,9,65667
+Chicago,2018,10,63285
+Chicago,2018,11,62934
+Chicago,2018,12,69127
+Chicago,2019,1,70072
+Chicago,2019,2,69123
+Chicago,2019,3,67177
+Chicago,2019,4,65579
+Chicago,2019,5,65465
+Chicago,2019,6,66101
+Chicago,2019,7,68128
+Chicago,2019,8,69249
+Chicago,2019,9,68880
+Chicago,2019,10,66302
+Chicago,2019,11,70878
+Chicago,2019,12,69407
+Chicago,2020,1,69895
+Chicago,2020,2,70294
+Chicago,2020,3,68959
+Chicago,2020,4,67764
+Chicago,2020,5,68516
+Chicago,2020,6,71310
+Chicago,2020,7,66142
+Chicago,2020,8,66849
+Chicago,2020,9,66362
+Chicago,2020,10,66325
+Chicago,2020,11,71989
+Chicago,2020,12,70933
+Chicago,2021,1,71057
+Chicago,2021,2,68376
+Chicago,2021,3,71181
+Chicago,2021,4,71052
+Chicago,2021,5,68913
+Chicago,2021,6,70770
+Chicago,2021,7,70518
+Chicago,2021,8,72067
+Chicago,2021,9,72204
+Chicago,2021,10,68002
+Chicago,2021,11,70348
+Chicago,2021,12,72138
+Chicago,2022,1,72988
+Chicago,2022,2,75566
+Chicago,2022,3,74123
+Chicago,2022,4,70505
+Chicago,2022,5,69831
+Chicago,2022,6,74004
+Chicago,2022,7,69510
+Chicago,2022,8,73591
+Chicago,2022,9,76177
+Chicago,2022,10,73516
+Chicago,2022,11,72149
+Chicago,2022,12,74010
+Houston,2013,1,45369
+Houston,2013,2,45410
+Houston,2013,3,44554
+Houston,2013,4,45409
+Houston,2013,5,44666
+Houston,2013,6,42709
+Houston,2013,7,43005
+Houston,2013,8,42744
+Houston,2013,9,43459
+Houston,2013,10,41971
+Houston,2013,11,44520
+Houston,2013,12,43280
+Houston,2014,1,46025
+Houston,2014,2,44800
+Houston,2014,3,46143
+Houston,2014,4,44597
+Houston,2014,5,44235
+Houston,2014,6,45302
+Houston,2014,7,46194
+Houston,2014,8,44632
+Houston,2014,9,47298
+Houston,2014,10,43231
+Houston,2014,11,44948
+Houston,2014,12,47439
+Houston,2015,1,46863
+Houston,2015,2,46283
+Houston,2015,3,46959
+Houston,2015,4,46994
+Houston,2015,5,47720
+Houston,2015,6,44903
+Houston,2015,7,45474
+Houston,2015,8,47015
+Houston,2015,9,48352
+Houston,2015,10,46928
+Houston,2015,11,45420
+Houston,2015,12,47478
+Houston,2016,1,49110
+Houston,2016,2,46704
+Houston,2016,3,47373
+Houston,2016,4,48124
+Houston,2016,5,47943
+Houston,2016,6,47430
+Houston,2016,7,46989
+Houston,2016,8,46041
+Houston,2016,9,45818
+Houston,2016,10,50159
+Houston,2016,11,49624
+Houston,2016,12,47264
+Houston,2017,1,51531
+Houston,2017,2,50151
+Houston,2017,3,49193
+Houston,2017,4,49245
+Houston,2017,5,47226
+Houston,2017,6,47267
+Houston,2017,7,49784
+Houston,2017,8,49544
+Houston,2017,9,47864
+Houston,2017,10,51478
+Houston,2017,11,50666
+Houston,2017,12,47375
+Houston,2018,1,52780
+Houston,2018,2,52999
+Houston,2018,3,53109
+Houston,2018,4,48352
+Houston,2018,5,51799
+Houston,2018,6,50832
+Houston,2018,7,51641
+Houston,2018,8,52971
+Houston,2018,9,51551
+Houston,2018,10,52305
+Houston,2018,11,52456
+Houston,2018,12,52312
+Houston,2019,1,51536
+Houston,2019,2,50479
+Houston,2019,3,51383
+Houston,2019,4,53954
+Houston,2019,5,50085
+Houston,2019,6,51989
+Houston,2019,7,50534
+Houston,2019,8,52342
+Houston,2019,9,53805
+Houston,2019,10,53894
+Houston,2019,11,50552
+Houston,2019,12,54036
+Houston,2020,1,53729
+Houston,2020,2,52442
+Houston,2020,3,54348
+Houston,2020,4,53142
+Houston,2020,5,52590
+Houston,2020,6,54331
+Houston,2020,7,51902
+Houston,2020,8,52336
+Houston,2020,9,52891
+Houston,2020,10,51928
+Houston,2020,11,52735
+Houston,2020,12,53620
+Houston,2021,1,55874
+Houston,2021,2,56017
+Houston,2021,3,56321
+Houston,2021,4,55892
+Houston,2021,5,55547
+Houston,2021,6,53127
+Houston,2021,7,54015
+Houston,2021,8,54438
+Houston,2021,9,52284
+Houston,2021,10,54714
+Houston,2021,11,54212
+Houston,2021,12,56208
+Houston,2022,1,58550
+Houston,2022,2,56192
+Houston,2022,3,54889
+Houston,2022,4,53328
+Houston,2022,5,58252
+Houston,2022,6,58222
+Houston,2022,7,54499
+Houston,2022,8,56971
+Houston,2022,9,53507
+Houston,2022,10,54014
+Houston,2022,11,54297
+Houston,2022,12,54731
+Phoenix,2013,1,60732
+Phoenix,2013,2,60473
+Phoenix,2013,3,62373
+Phoenix,2013,4,57242
+Phoenix,2013,5,58654
+Phoenix,2013,6,62669
+Phoenix,2013,7,62308
+Phoenix,2013,8,59702
+Phoenix,2013,9,60688
+Phoenix,2013,10,58632
+Phoenix,2013,11,58097
+Phoenix,2013,12,59750
+Phoenix,2014,1,60861
+Phoenix,2014,2,62283
+Phoenix,2014,3,59158
+Phoenix,2014,4,64697
+Phoenix,2014,5,64770
+Phoenix,2014,6,62991
+Phoenix,2014,7,61989
+Phoenix,2014,8,60590
+Phoenix,2014,9,63705
+Phoenix,2014,10,62908
+Phoenix,2014,11,59683
+Phoenix,2014,12,64305
+Phoenix,2015,1,65616
+Phoenix,2015,2,66425
+Phoenix,2015,3,65000
+Phoenix,2015,4,64287
+Phoenix,2015,5,63046
+Phoenix,2015,6,66316
+Phoenix,2015,7,65893
+Phoenix,2015,8,60675
+Phoenix,2015,9,60555
+Phoenix,2015,10,62780
+Phoenix,2015,11,65540
+Phoenix,2015,12,66663
+Phoenix,2016,1,63080
+Phoenix,2016,2,65980
+Phoenix,2016,3,64586
+Phoenix,2016,4,68436
+Phoenix,2016,5,67601
+Phoenix,2016,6,67576
+Phoenix,2016,7,65160
+Phoenix,2016,8,64808
+Phoenix,2016,9,63883
+Phoenix,2016,10,62465
+Phoenix,2016,11,67749
+Phoenix,2016,12,67410
+Phoenix,2017,1,70520
+Phoenix,2017,2,70499
+Phoenix,2017,3,67536
+Phoenix,2017,4,68970
+Phoenix,2017,5,70151
+Phoenix,2017,6,69512
+Phoenix,2017,7,65467
+Phoenix,2017,8,66831
+Phoenix,2017,9,64673
+Phoenix,2017,10,70213
+Phoenix,2017,11,67877
+Phoenix,2017,12,65341
+Phoenix,2018,1,70147
+Phoenix,2018,2,69777
+Phoenix,2018,3,67985
+Phoenix,2018,4,66298
+Phoenix,2018,5,70146
+Phoenix,2018,6,69103
+Phoenix,2018,7,70841
+Phoenix,2018,8,69102
+Phoenix,2018,9,71391
+Phoenix,2018,10,69321
+Phoenix,2018,11,69383
+Phoenix,2018,12,71560
+Phoenix,2019,1,70079
+Phoenix,2019,2,68172
+Phoenix,2019,3,67427
+Phoenix,2019,4,72567
+Phoenix,2019,5,71613
+Phoenix,2019,6,72206
+Phoenix,2019,7,68731
+Phoenix,2019,8,68189
+Phoenix,2019,9,67327
+Phoenix,2019,10,69704
+Phoenix,2019,11,71398
+Phoenix,2019,12,69999
+Phoenix,2020,1,72107
+Phoenix,2020,2,75493
+Phoenix,2020,3,71460
+Phoenix,2020,4,72662
+Phoenix,2020,5,74619
+Phoenix,2020,6,71810
+Phoenix,2020,7,73447
+Phoenix,2020,8,75190
+Phoenix,2020,9,75823
+Phoenix,2020,10,70000
+Phoenix,2020,11,75656
+Phoenix,2020,12,72504
+Phoenix,2021,1,72562
+Phoenix,2021,2,74056
+Phoenix,2021,3,77929
+Phoenix,2021,4,74305
+Phoenix,2021,5,73086
+Phoenix,2021,6,75352
+Phoenix,2021,7,72428
+Phoenix,2021,8,71206
+Phoenix,2021,9,71600
+Phoenix,2021,10,71594
+Phoenix,2021,11,71771
+Phoenix,2021,12,71674
+Phoenix,2022,1,77232
+Phoenix,2022,2,73736
+Phoenix,2022,3,74983
+Phoenix,2022,4,79181
+Phoenix,2022,5,75961
+Phoenix,2022,6,77435
+Phoenix,2022,7,73663
+Phoenix,2022,8,73815
+Phoenix,2022,9,72662
+Phoenix,2022,10,73637
+Phoenix,2022,11,74473
+Phoenix,2022,12,73699
+Philadelphia,2013,1,53977
+Philadelphia,2013,2,53900
+Philadelphia,2013,3,52942
+Philadelphia,2013,4,55833
+Philadelphia,2013,5,51721
+Philadelphia,2013,6,52803
+Philadelphia,2013,7,52757
+Philadelphia,2013,8,51525
+Philadelphia,2013,9,53614
+Philadelphia,2013,10,54724
+Philadelphia,2013,11,53778
+Philadelphia,2013,12,51873
+Philadelphia,2014,1,54648
+Philadelphia,2014,2,52575
+Philadelphia,2014,3,57365
+Philadelphia,2014,4,53028
+Philadelphia,2014,5,55865
+Philadelphia,2014,6,58017
+Philadelphia,2014,7,55529
+Philadelphia,2014,8,57673
+Philadelphia,2014,9,53867
+Philadelphia,2014,10,56765
+Philadelphia,2014,11,55500
+Philadelphia,2014,12,56547
+Philadelphia,2015,1,54446
+Philadelphia,2015,2,54933
+Philadelphia,2015,3,54849
+Philadelphia,2015,4,58004
+Philadelphia,2015,5,58900
+Philadelphia,2015,6,58360
+Philadelphia,2015,7,54265
+Philadelphia,2015,8,59029
+Philadelphia,2015,9,56108
+Philadelphia,2015,10,56353
+Philadelphia,2015,11,54689
+Philadelphia,2015,12,58290
+Philadelphia,2016,1,56690
+Philadelphia,2016,2,58924
+Philadelphia,2016,3,60545
+Philadelphia,2016,4,56145
+Philadelphia,2016,5,58757
+Philadelphia,2016,6,56988
+Philadelphia,2016,7,57630
+Philadelphia,2016,8,58398
+Philadelphia,2016,9,57702
+Philadelphia,2016,10,59421
+Philadelphia,2016,11,58430
+Philadelphia,2016,12,59043
+Philadelphia,2017,1,61586
+Philadelphia,2017,2,60509
+Philadelphia,2017,3,60682
+Philadelphia,2017,4,60549
+Philadelphia,2017,5,59432
+Philadelphia,2017,6,59183
+Philadelphia,2017,7,62566
+Philadelphia,2017,8,60808
+Philadelphia,2017,9,58623
+Philadelphia,2017,10,60151
+Philadelphia,2017,11,59141
+Philadelphia,2017,12,62771
+Philadelphia,2018,1,58731
+Philadelphia,2018,2,60076
+Philadelphia,2018,3,60941
+Philadelphia,2018,4,61698
+Philadelphia,2018,5,63940
+Philadelphia,2018,6,59227
+Philadelphia,2018,7,63662
+Philadelphia,2018,8,59028
+Philadelphia,2018,9,63887
+Philadelphia,2018,10,59003
+Philadelphia,2018,11,58797
+Philadelphia,2018,12,62990
+Philadelphia,2019,1,66536
+Philadelphia,2019,2,65898
+Philadelphia,2019,3,63866
+Philadelphia,2019,4,66030
+Philadelphia,2019,5,60249
+Philadelphia,2019,6,66396
+Philadelphia,2019,7,63326
+Philadelphia,2019,8,64797
+Philadelphia,2019,9,65418
+Philadelphia,2019,10,64769
+Philadelphia,2019,11,63606
+Philadelphia,2019,12,63236
+Philadelphia,2020,1,67197
+Philadelphia,2020,2,63079
+Philadelphia,2020,3,68038
+Philadelphia,2020,4,66367
+Philadelphia,2020,5,63043
+Philadelphia,2020,6,66531
+Philadelphia,2020,7,65190
+Philadelphia,2020,8,66343
+Philadelphia,2020,9,66736
+Philadelphia,2020,10,62313
+Philadelphia,2020,11,65036
+Philadelphia,2020,12,67804
+Philadelphia,2021,1,65413
+Philadelphia,2021,2,67233
+Philadelphia,2021,3,65736
+Philadelphia,2021,4,66303
+Philadelphia,2021,5,66931
+Philadelphia,2021,6,66933
+Philadelphia,2021,7,64621
+Philadelphia,2021,8,67837
+Philadelphia,2021,9,63862
+Philadelphia,2021,10,64202
+Philadelphia,2021,11,63295
+Philadelphia,2021,12,64054
+Philadelphia,2022,1,68036
+Philadelphia,2022,2,68943
+Philadelphia,2022,3,70226
+Philadelphia,2022,4,65536
+Philadelphia,2022,5,70611
+Philadelphia,2022,6,69897
+Philadelphia,2022,7,67595
+Philadelphia,2022,8,71172
+Philadelphia,2022,9,71568
+Philadelphia,2022,10,66206
+Philadelphia,2022,11,67395
+Philadelphia,2022,12,71128
+San Antonio,2013,1,43714
+San Antonio,2013,2,44874
+San Antonio,2013,3,41827
+San Antonio,2013,4,44672
+San Antonio,2013,5,42096
+San Antonio,2013,6,41931
+San Antonio,2013,7,41934
+San Antonio,2013,8,44755
+San Antonio,2013,9,44107
+San Antonio,2013,10,43491
+San Antonio,2013,11,42778
+San Antonio,2013,12,45027
+San Antonio,2014,1,44212
+San Antonio,2014,2,46107
+San Antonio,2014,3,44420
+San Antonio,2014,4,44142
+San Antonio,2014,5,44525
+San Antonio,2014,6,43805
+San Antonio,2014,7,45799
+San Antonio,2014,8,44704
+San Antonio,2014,9,43495
+San Antonio,2014,10,46478
+San Antonio,2014,11,44173
+San Antonio,2014,12,44887
+San Antonio,2015,1,47864
+San Antonio,2015,2,46565
+San Antonio,2015,3,44232
+San Antonio,2015,4,48017
+San Antonio,2015,5,46581
+San Antonio,2015,6,45235
+San Antonio,2015,7,44335
+San Antonio,2015,8,47346
+San Antonio,2015,9,46546
+San Antonio,2015,10,46148
+San Antonio,2015,11,47806
+San Antonio,2015,12,47321
+San Antonio,2016,1,45648
+San Antonio,2016,2,46405
+San Antonio,2016,3,46106
+San Antonio,2016,4,48449
+San Antonio,2016,5,45089
+San Antonio,2016,6,47626
+San Antonio,2016,7,48537
+San Antonio,2016,8,49078
+San Antonio,2016,9,46549
+San Antonio,2016,10,48815
+San Antonio,2016,11,45454
+San Antonio,2016,12,48934
+San Antonio,2017,1,46787
+San Antonio,2017,2,48098
+San Antonio,2017,3,50042
+San Antonio,2017,4,46896
+San Antonio,2017,5,47282
+San Antonio,2017,6,49678
+San Antonio,2017,7,49667
+San Antonio,2017,8,49283
+San Antonio,2017,9,49540
+San Antonio,2017,10,48805
+San Antonio,2017,11,47391
+San Antonio,2017,12,47848
+San Antonio,2018,1,48310
+San Antonio,2018,2,51937
+San Antonio,2018,3,50315
+San Antonio,2018,4,49404
+San Antonio,2018,5,49710
+San Antonio,2018,6,52131
+San Antonio,2018,7,48169
+San Antonio,2018,8,50329
+San Antonio,2018,9,49929
+San Antonio,2018,10,50455
+San Antonio,2018,11,47495
+San Antonio,2018,12,51756
+San Antonio,2019,1,53413
+San Antonio,2019,2,51534
+San Antonio,2019,3,52208
+San Antonio,2019,4,53364
+San Antonio,2019,5,52262
+San Antonio,2019,6,49422
+San Antonio,2019,7,51591
+San Antonio,2019,8,51747
+San Antonio,2019,9,50812
+San Antonio,2019,10,52412
+San Antonio,2019,11,53425
+San Antonio,2019,12,53380
+San Antonio,2020,1,52245
+San Antonio,2020,2,50472
+San Antonio,2020,3,55048
+San Antonio,2020,4,54282
+San Antonio,2020,5,50532
+San Antonio,2020,6,54712
+San Antonio,2020,7,54445
+San Antonio,2020,8,52602
+San Antonio,2020,9,52982
+San Antonio,2020,10,51972
+San Antonio,2020,11,50165
+San Antonio,2020,12,51637
+San Antonio,2021,1,55434
+San Antonio,2021,2,51139
+San Antonio,2021,3,52908
+San Antonio,2021,4,53256
+San Antonio,2021,5,54006
+San Antonio,2021,6,56063
+San Antonio,2021,7,52978
+San Antonio,2021,8,52981
+San Antonio,2021,9,55082
+San Antonio,2021,10,53547
+San Antonio,2021,11,52323
+San Antonio,2021,12,53548
+San Antonio,2022,1,53127
+San Antonio,2022,2,53323
+San Antonio,2022,3,55097
+San Antonio,2022,4,54659
+San Antonio,2022,5,57392
+San Antonio,2022,6,54348
+San Antonio,2022,7,55550
+San Antonio,2022,8,55835
+San Antonio,2022,9,52423
+San Antonio,2022,10,56007
+San Antonio,2022,11,53332
+San Antonio,2022,12,57647
+San Diego,2013,1,57399
+San Diego,2013,2,59130
+San Diego,2013,3,57272
+San Diego,2013,4,55271
+San Diego,2013,5,55928
+San Diego,2013,6,55987
+San Diego,2013,7,56485
+San Diego,2013,8,56654
+San Diego,2013,9,58782
+San Diego,2013,10,56212
+San Diego,2013,11,56890
+San Diego,2013,12,57785
+San Diego,2014,1,58065
+San Diego,2014,2,60762
+San Diego,2014,3,59298
+San Diego,2014,4,57573
+San Diego,2014,5,60042
+San Diego,2014,6,58946
+San Diego,2014,7,58986
+San Diego,2014,8,58672
+San Diego,2014,9,58766
+San Diego,2014,10,60344
+San Diego,2014,11,56450
+San Diego,2014,12,57810
+San Diego,2015,1,57928
+San Diego,2015,2,62028
+San Diego,2015,3,59118
+San Diego,2015,4,62900
+San Diego,2015,5,60657
+San Diego,2015,6,62315
+San Diego,2015,7,63393
+San Diego,2015,8,62551
+San Diego,2015,9,62716
+San Diego,2015,10,59939
+San Diego,2015,11,60809
+San Diego,2015,12,59007
+San Diego,2016,1,60318
+San Diego,2016,2,62242
+San Diego,2016,3,62799
+San Diego,2016,4,61208
+San Diego,2016,5,62640
+San Diego,2016,6,64618
+San Diego,2016,7,62561
+San Diego,2016,8,63582
+San Diego,2016,9,64107
+San Diego,2016,10,65248
+San Diego,2016,11,62850
+San Diego,2016,12,64117
+San Diego,2017,1,66877
+San Diego,2017,2,66761
+San Diego,2017,3,61626
+San Diego,2017,4,63322
+San Diego,2017,5,62795
+San Diego,2017,6,61280
+San Diego,2017,7,64772
+San Diego,2017,8,65428
+San Diego,2017,9,66145
+San Diego,2017,10,61509
+San Diego,2017,11,66326
+San Diego,2017,12,64834
+San Diego,2018,1,66971
+San Diego,2018,2,68327
+San Diego,2018,3,66451
+San Diego,2018,4,64555
+San Diego,2018,5,67766
+San Diego,2018,6,64734
+San Diego,2018,7,62575
+San Diego,2018,8,67802
+San Diego,2018,9,64616
+San Diego,2018,10,67430
+San Diego,2018,11,64732
+San Diego,2018,12,68002
+San Diego,2019,1,65456
+San Diego,2019,2,70540
+San Diego,2019,3,69228
+San Diego,2019,4,64747
+San Diego,2019,5,67787
+San Diego,2019,6,70613
+San Diego,2019,7,67150
+San Diego,2019,8,65204
+San Diego,2019,9,67242
+San Diego,2019,10,67428
+San Diego,2019,11,68972
+San Diego,2019,12,68684
+San Diego,2020,1,68384
+San Diego,2020,2,67109
+San Diego,2020,3,70058
+San Diego,2020,4,68516
+San Diego,2020,5,66517
+San Diego,2020,6,71823
+San Diego,2020,7,70377
+San Diego,2020,8,70322
+San Diego,2020,9,71284
+San Diego,2020,10,69261
+San Diego,2020,11,71232
+San Diego,2020,12,69043
+San Diego,2021,1,67706
+San Diego,2021,2,70098
+San Diego,2021,3,70751
+San Diego,2021,4,72327
+San Diego,2021,5,67985
+San Diego,2021,6,68221
+San Diego,2021,7,69096
+San Diego,2021,8,69116
+San Diego,2021,9,72412
+San Diego,2021,10,69005
+San Diego,2021,11,71711
+San Diego,2021,12,70728
+San Diego,2022,1,73012
+San Diego,2022,2,74932
+San Diego,2022,3,71788
+San Diego,2022,4,74445
+San Diego,2022,5,71916
+San Diego,2022,6,71422
+San Diego,2022,7,75805
+San Diego,2022,8,70193
+San Diego,2022,9,69512
+San Diego,2022,10,74445
+San Diego,2022,11,69352
+San Diego,2022,12,74924
